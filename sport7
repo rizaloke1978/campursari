@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 01 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 02 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 03 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 04 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 05 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 06 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 07 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 08 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 09 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 10 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 11 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports 12 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",MU TV SPORTS HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport 1 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BoxNation HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport 2 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport 3 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport ESPN HD UK*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport ESPN UK*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport Extra 1 UK*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport Extra 2 UK*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport Extra 5 UK*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BT Sport Mosaic 2 UK
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32035.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- eir Sport 1 UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32031.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- eir Sport 2 UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32030.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Eurosport 1 HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Eurosport 2 HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32032.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Abu Dhabi Sports 1 HD ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Abu Dhabi Sports 2 HD ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Bahrain Sport 1 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Bahrain Sport 2 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sport AlKass 1 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sport AlKass 2 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sport AlKass 4 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sport News HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEIN Sports Global ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- BEN Sport AlKass 3 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- DMC Sport HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Dubai Racing Channel ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Dubai Sport 1 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Dubai Sport 2 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Dubai Sport 3 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Dubai Sport 4 ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Iraqia Sport ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Jordan Sport ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- KTV Sport Plus ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Kuwait Sport  ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Kuwait Sport ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Kuwait Sport Plus ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- MBC Pro Sport 1 HD ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- MBC Pro Sport 2 HD ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- MBC Pro Sport 3 HD ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Neelain Sport ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Nile Sport ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Oman Sport ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- ON Sport ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- OSN Sport 1 Action ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- OSN Sport 2 Action ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- OSN Sport 3 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- OSN Sport 4 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Saudi Sport 1 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Saudi Sport 2 ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Sharjah Sport ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- Yas Sports ARB**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Play Sports 1 HD BE-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19806.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Play Sports 2 HD BE-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Play Sports 3 HD BE-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Play Sports 4 HD BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Play Sports 5 HD BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Voo Sport 1 BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Voo Sport World 1 BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Voo Sport World 2 BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19808.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BELGIUM: Voo Sport World 3 BE**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19807.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 1 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 2 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 3 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 4 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 5 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 6 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 7 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Cosmote Sport 8 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 1 FHD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88634.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 1 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88635.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 2 FHD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88633.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 24 FHD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88636.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 3 FHD [Live During Events Only]
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88632.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 4 FHD [Live During Events Only]
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88631.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",GR: Nova Sports 5 HD [Live During Events Only]
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/88630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- K Sport 1 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- K Sport 2 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- K Sport 3 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- K Sport 4 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 1 HD AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 2 HD AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 3 HD AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 4 HD AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 5 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport 6 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport Kosova 1 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Super Sport Kosova 2 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Tring Sport 1 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Tring Sport 2 HD AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Tring Sport 3 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*AL- Tring Sport 4 AL
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*RO- DIGI Sport 1 HD RO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30896.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*RO- Digi Sport 1 RO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*RO- Digi Sport 2 RO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*RO- Digi Sport 3 RO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*RO- Digi Sport 4 RO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : KOMBAT SPORTS**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : MCS EXTREME**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : Motors TV
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : SPORT TV 1**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14040.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : Sport TV 1 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : Sport TV 2 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14038.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : SPORT TV 4**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : SPORT TV 5**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",PT-*- : Sporting TV**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/14036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net 360 FHD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net One HD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net Ontario HD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net Pacific HD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net West  HD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89188.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CA: Sports Net World HD CA*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/89187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: Match! Arena HD RU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: MAtch! Boec RU**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22020.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: Match! Igra RU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: Match! Nash Sport RU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22017.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: Match! Planeta RU**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",RUSSIAN: Match! RU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- beINSports HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fight Sport HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports 1 HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29966.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports 1 US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports 2 FHD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29964.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports 506 HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports College Central HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29961.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- Fox Sports North HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- AFN Sport 1 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30032.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*USA- AFN Sport 2 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30031.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Digi Sport 1 HD HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21934.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: DIGI Sport 1 HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Digi Sport 2 HD HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21933.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: DIGI Sport 2 HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21941.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: DIGI Sport 3 HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21940.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Eurosport 2 HU*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: EuroSport HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Extreme Sports HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Sport 1 HD HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Sport 2 HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Sport M HU
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",HUNGARY: Sport1 HU-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: TV2 Sport Premium 1 VIP NO-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: TV2 Sport Premium 2 VIP NO-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: TV2 Sport Premium 3 VIP NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: TV2 Sportskanalen HD NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasat Sport Baltic NO***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasat Sport East NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasat Sport HD NO-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21797.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasat Sport NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21796.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasport 1 HD VIP NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasport 2 HD VIP NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NORWAY: Viasport 3 HD VIP NO**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/21773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BULGARIA: Diema Sport 1 BG-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BULGARIA: Diema Sport 1 HD BG-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BULGARIA: Diema Sport 2 BG-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",BULGARIA: Diema Sport 2 HD BG-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SWITZERLAND: Teleclub Sport 1 CH
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SWITZERLAND: TeleClub Sport 1 FHD CH
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SWITZERLAND: Teleclub Sport 2 CH
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SWITZERLAND: TeleClub Sport 2 FHD CH
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Canal  Sport 2 FHD PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Canal  Sport 2 HD PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Canal  Sport FHD PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Canal  Sport HD PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Canal  Sport PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Eleven Sports 1 FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31357.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Eleven Sports 2 FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Eleven Sports 3 FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Eleven Sports 4 FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Extreme Sports FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Extreme Sports HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Fight Channel World HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Fight Network FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Fightbox FHD PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Fightbox PL-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport Extra FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport Extra HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport Extra PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31342.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- POLSAT Sport Fight FHD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport Fight HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport Fight PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport News HD PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*PL- Polsat Sport PL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 1 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 2 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 3 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 4 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 5 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Fox Sports 6 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Ziggo Sports Golf HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Ziggo Sports Select HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15740.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Ziggo Sports Voetbal HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Ziggo Sports Racing HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: EDGE Sport HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Eurosport 1 FHD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: Eurosport 2 FHD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: EXTREME SPORTS CHANNEL**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",NL: MOTER SPORTS HD***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*IT- Fox Sport HD IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*IT- Premium Sport 2 IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*IT- Premium Sport HD IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*IT- Rai Sport 1 HD IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*IT- Rai Sport 2 IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Gol TV ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Gol TV HD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31680.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Real Madrid TV ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31624.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Barca TV ES
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- LaLiga 123 FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- beINSport HD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- bein Sport HD VIP ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- beIN Sport FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- MovieStar Futbol ES
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31649.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- beIN LA Liga FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Movistar  Deportes 1 FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31642.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- MoviStar  Futbol FHD ES
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- MoviStar Formula 1 FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- EuroSport 1 HD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Eurosport 1 FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- Eurosport 2 HD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- beINSport LaLiga HD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- LaLiga TV Bar ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*ES- LaLigaTV FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",TUK beINSports 1 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",TUK beINSports 2 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",TUK beINSports 3 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",TUK beINSports 4 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",TUK beINSports Haber HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/23834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SPT- STAR SPORTS 1 HINDI HD*e
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/27572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SPT- STAR SPORTS 1HD*e
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/27574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SPT- STAR SPORTS 2HD*e
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/27573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SPT- S*KY-SP*0R*TS-CRI*CKET-HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/27569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SPT- SONY ESPN HD*e*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/27559.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- PTV SPORTS 01*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18786.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- GEO SUPER 02*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18788.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- PTV SPORTS 02*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- PTV SPORTS (1080p) 03*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18784.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- TEN SPORTS 01* PK
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CRIC- TEN SPORTS 02*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/18791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Nova Sport 1 FHD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22413.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Nova Sport 1 HD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22412.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Nova Sport 2 HD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22411.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: O2 Fotbal HD CZ
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22410.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: O2 Sport HD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Sport 1 HD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Sport 2 FHD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Sport 2 HD CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",CZ-RE: Sport 5 CZ**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22397.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TNT SPORT FHD VIP
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TNT VIP*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TODO DEPORTE VIP
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TODO DEPORTES  HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TyC Sports FHD VIP
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: TyC SPORTS VIP
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: WIN SPORT FHD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",LATIN AMERICA: WIN SPORT VIP
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/22462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- S*ky-Sp0*rts-Ma*in-Ev*ent HD 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Ma*in-Eve*nt-HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- SK*Y-Sp*0rts-Cri*ck*et HD 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Cric*ket-HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Act*ion-HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS- S*ky-Sp*0rts Ac*ti*on HD 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS S*ky-Sp*0rts-F*1 HD 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-F*1-UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS: S*ky-Sp*0rts-M*ix HD 
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Mix-HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",*SS: S*K*Y-SP*0R*TS-F0*0TBA*LL HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90395.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-F00t*ba*ll-HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Pre*mier-Leag*ue HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",SS- S*KY-SP*0R*TS-PR*EMI*ER-LEA*GUE
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/77917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-Ne*ws-HQ UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp*0rts-G0*lf-HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 01 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 02 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 03 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 04 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 05 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 06 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 07 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 08 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 09 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 10 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 11 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",Super Sports 12 HD
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/90436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",WWE SPORTS HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/50990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT LUAR",S*ky-Sp0*rts-Are*na-HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/19260.m3u8
