@@ -780,3 +780,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TVRI",TVRI SUMSEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",HBO FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",HBO Hits FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",Fox Movie FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/47.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",Fox Movie Action FHD 
+http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",Fox Movie Family FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/45.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",FOX
+http://idxcode.streamid.tv:25251/live/stream/ID/43.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIE RIZAL",FOX LIFE
+http://idxcode.streamid.tv:25251/live/stream/ID/46.ts
