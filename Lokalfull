@@ -290,14 +290,3 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",THE HOST
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",WARM BODIES
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",YOU NOW SEE ME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",YOU NOW SEE ME 2
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
