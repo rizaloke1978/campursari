@@ -18,6 +18,12 @@ https://anevia115.mncnow.id:443/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",NET TV
 https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="INDONESIA",NET TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="INDONESIA",NET TV
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
@@ -202,6 +208,20 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO Hits FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Fox Movie FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/47.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Fox Movie Action FHD 
+http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Fox Movie Family FHD
+http://idxcode.streamid.tv:25251/live/stream/ID/45.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX
+http://idxcode.streamid.tv:25251/live/stream/ID/43.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX LIFE
+http://idxcode.streamid.tv:25251/live/stream/ID/46.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
