@@ -299,42 +299,57 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",▬ beIN Media Group ▬
-http://clientportal.link:80/Jasserneu/wV2YXm410/16504
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",bein SPORTS 1 4K ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/24697
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 1 FHD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/22157
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 1 HD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14980
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 1 SD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14981
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",bein SPORTS 2 4K ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/24696
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 2 FHD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/22158
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 2 HD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14982
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 2 SD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14983
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",bein SPORTS 3 4K ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/24695
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 3 FHD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/22159
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 3 HD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14984
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 3 SD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14985
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",bein SPORTS 4 4K ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/24694
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 4 FHD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/22160
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 4 HD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14986
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 4 SD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/14987
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",bein SPORTS 5 4K ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/24693
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 5 FHD ARB
 http://clientportal.link:80/Jasserneu/wV2YXm410/22161
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS 5 HD ARB
