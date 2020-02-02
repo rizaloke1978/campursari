@@ -581,3 +581,21 @@ http://orange01.clicknupload.net:8080/d/x65qzt35lvyd7tr7jxe4p6clbvv73alzvfthv7eg
 #EXTINF:-1 group-title="MOVIE INDO",WHITE SNAKE
 http://i57.indiworlds.com:182/d/2eihlteg7db4joax3ydfjnnmyabpfbqqwm6sbzjlqqdkg4dc2ezxdvk3rm5a2uc2yh5h3zti/White.Snake.2019.BluRay.720p.FMZM.mkv
 
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS",TRUE HD 1
+
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS",TRUE HD 2
+
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS",TRUE HD 3
+
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS",TRUE HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS",TRUE HD 5
+
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
