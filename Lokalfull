@@ -560,3 +560,24 @@ http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b369
 #EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Astro Malaysia", TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
+#EXTINF:-1 group-title="MOVIE INDO",HIT & RUN
+http://i53.indiworlds.com:182/d/2uimn6mg7db4joax34da53fsz3kwe7qi3yqwtiqjqtmjjspqevxya6zobqbjwdm5rrx2clxc/Hit.and.Run.2019.WEBRip.720p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",DILAN 1991
+http://i51.indiworlds.com:182/d/24ijlhun7db4joaxuadat2npr36ccdh4dhmrn5we47fimsrxh6p6hcrzvtylueuooewboyst/Dilan.1991.2019.WEB-DL.1080p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",DUA GARIS BIRU
+http://i59.indiworlds.com:182/d/54ihrfei7db4joax74dez5npr2s7y5gb5xb3stexilulxusnutenvg2567y6ceigfazmmp22/Dua.Garis.Biru.2019.WEB-DL.1080p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",MAKMUN
+http://i57.indiworlds.com:182/d/2eiaclui7db4joax6edfn4xqznfon4fpashsoaeqwdpa7n4qyxememnekjr6oqktjixb5ho7/Makmum.2019.WEB-DL.1080p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",WEDDING AGGREEMENT
+http://i53.indiworlds.com:182/d/2uib3a4j7db4joax5ydfh5nwrabcamgonjnqg2mglp35wrnwvu745ohp7lsutt5qgi4ei2zy/Wedding.Agreement.2019.WEB-DL.1080p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",GUNDALA
+http://orange01.clicknupload.net:8080/d/x65qzt35lvyd7tr7jxe4p6clbvv73alzvfthv7egxmvhxyqg5g56w5ju2sosiri7mddn57et/Gundala.2019.WEB-DL.1080p.FMZM.mkv
+
+#EXTINF:-1 group-title="MOVIE INDO",WHITE SNAKE
+http://i57.indiworlds.com:182/d/2eihlteg7db4joax3ydfjnnmyabpfbqqwm6sbzjlqqdkg4dc2ezxdvk3rm5a2uc2yh5h3zti/White.Snake.2019.BluRay.720p.FMZM.mkv
+
