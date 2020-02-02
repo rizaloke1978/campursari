@@ -448,30 +448,6 @@ http://clientportal.link:80/Jasserneu/wV2YXm410/19038
 http://clientportal.link:80/Jasserneu/wV2YXm410/15723
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS HABER HD TR
 http://clientportal.link:80/Jasserneu/wV2YXm410/17896
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SERIES Drama HD TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/19660
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SERIES Sci-Fi HD TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/19661
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN BOX OFFICE 1 TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12772
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN BOX OFFICE 2 HD TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12771
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN BOX OFFICE 3 HD TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12770
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN MOVIES TURK TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/16292
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN MOVIES ACTION TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12767
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN MOVIES Family TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12760
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN MOVIES PREMIER TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12769
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN MOVIES STARS TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/12768
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN GURME TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/16293
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN İZ TR
-http://clientportal.link:80/Jasserneu/wV2YXm410/16294
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS MAX 1 HD ES
 http://clientportal.link:80/Jasserneu/wV2YXm410/13662
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN SPORTS MAX 2 HD ES
@@ -548,4 +524,39 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Astro Malaysia",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="Astro Malaysia",ASSP 1
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+#EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="Astro Malaysia",ASSP 2
+http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+#EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="Astro Malaysia",ASSP 3
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+#EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="Astro Malaysia",ASSP 4
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Astro Malaysia",RTM 1 SD
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Astro Malaysia",RTM 1 HD
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Astro Malaysia",RTM 2 SD
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:0 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Astro Malaysia",RTM 2 HD
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="Astro Malaysia",TV3
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Astro Malaysia",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Astro Malaysia",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Astro Malaysia",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Astro Malaysia",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" group-title="Astro Malaysia", RTM Saluran Berita
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="Astro Malaysia", 1 News
+http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Astro Malaysia", TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
