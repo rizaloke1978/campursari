@@ -15,7 +15,7 @@ https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR
 https://anevia115.mncnow.id:443/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",NET TV
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648781-404e7880-46b9-11ea-91a5-a7442899f41f.jpg" group-title="INDONESIA",NET TV
 https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="INDONESIA",NET TV
@@ -27,13 +27,13 @@ http://210.210.155.35/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648786-40e70f00-46b9-11ea-8338-ae4748e940eb.png" group-title="INDONESIA",TRANS 7
 https://anevia114.mncnow.id:443/live/eds/Trans7/sa_hls/Trans7-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TV ONE
 https://anevia114.mncnow.id:443/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TRANS TV
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648787-417fa580-46b9-11ea-998b-9153ba975f41.jpg" group-title="INDONESIA",TRANS TV
 https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",RTV
