@@ -418,6 +418,105 @@ https://doc-0s-bg-docs.googleusercontent.com/docs/securesc/6sc1publ399iik4emundo
 http://i54.indiworlds.com:182/d/2iioeuej7db4joax44dfhyfp2luvj4p7p2zlt6d3t24vrkmyfzwqxpq5f7ps336umjaefg5d/Dark%20Waters.2019.Screener.720p.FMZM.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",TERMINATOR DARK FATE
 http://i52.indiworlds.com:182/d/2qiloomj7db4joax4udfl4fo3qcjbnalqr5dvu2ppj5tbrg2gi6mih7ofxwmnfaoshnprpyk/Terminator.Dark.Fate.2019.BluRay.720p.FMZM.mkv
-
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Lokal TV Backup",ANTV #1
+http://rr2.dens.tv/s/s102/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Lokal TV Backup",ANTV #2
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Lokal TV Backup",ANTV #3
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/ANTV.png" group-title="Lokal TV Backup",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Bioskop.png" group-title="Lokal TV Backup",Citra Bioskop
+https://dl.dropbox.com/s/sprfp4j2dgvq16c/Citra%20Bioskop.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Dangdut.png" group-title="Lokal TV Backup",Citra Dangdut
+https://dl.dropbox.com/s/z8oo7pvkvj2pjud/CitraDangdut.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Drama.png" group-title="Lokal TV Backup",Citra Drama
+https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Citra-Muslim.png" group-title="Lokal TV Backup",Citra Muslim
+https://dl.dropbox.com/s/b6e5jkbix6ake3l/CitraMuslim.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/DAAI-TV.png" group-title="Lokal TV Backup",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/GTV.png" group-title="Lokal TV Backup",GTV #1
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/GTV.png" group-title="Lokal TV Backup",GTV #2
+https://live.rctiplus.id/rctiplus/gtv_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Lokal TV Backup",Indosiar #1
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Lokal TV Backup",Indosiar #2
+https://etslive-2-vidio-com.akamaized.net/exp=1580756856~acl=/hls-p/ingest_205_*/*~hmac=40e7f44ae6f6ab2100545cb96a2276c1aaed7907489458d67fe777a2db7061db/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Indosiar.png" group-title="Lokal TV Backup",Indosiar #3
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Lokal TV Backup",iNews #1
+https://live.rctiplus.id/rctiplus/inews_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Lokal TV Backup",iNews #2
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/iNews.png" group-title="Lokal TV Backup",iNews #3
+https://live.rctiplus.id/rctiplus/inews_360p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Lokal TV Backup",KOMPAS TV #1
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Lokal TV Backup",KOMPAS TV #2
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/KOMPAS-TV.png" group-title="Lokal TV Backup",KOMPAS TV #3
+https://etslive-2-vidio-com.akamaized.net/exp=1580757122~acl=/hls-p/ingest_874_*/*~hmac=4c2c163534bed72d8e8431cdd964fcfd07adb84bb01dc23571623b3ae8e61e3e/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Lokal TV Backup",Metro-TV #1
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w2035713128_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Lokal TV Backup",Metro TV #2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Lokal TV Backup",Metro TV #3
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Metro-TV.png" group-title="Lokal TV Backup",Metro TV #4
+http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/MNC-TV.png" group-title="Lokal TV Backup",MNC TV #1
+https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/MNC-TV.png" group-title="Lokal TV Backup",MNC TV #2
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Lokal TV Backup",Net. #1
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Lokal TV Backup",Net. #2
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Lokal TV Backup",Net. #3
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/NetTV.png" group-title="Lokal TV Backup",Net. #4
+https://etslive-2-vidio-com.akamaized.net/exp=1580757035~acl=/hls-p/ingest_875_*/*~hmac=6ab2c670f56bf5406c26d6c8f382083dde1bc1269bd57dec325ff2d384518fdf/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Lokal TV Backup",RCTI #1
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Lokal TV Backup",RCTI #2
+https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Lokal TV Backup",RCTI #3
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RCTI.png" group-title="Lokal TV Backup",RCTI #4
+http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RRI-NET.png"  group-title="Lokal TV Backup",RRI-NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RTV.png" group-title="Lokal TV Backup",RTV #1
+http://rr2.dens.tv/s/s12/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/RTV.png" group-title="Lokal TV Backup",RTV #2
+http://202.80.222.170:80/000001/2/ch00000090990000001716/1003.m3u8?IASHttpSessionId=OTT219862019121316003224320478&ztecid=ch00000090990000001716&bandwidth=1413530&ispcode=1&timeformat=local&channel=ch00000090990000001716&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Lokal TV Backup",SCTV #1
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Lokal TV Backup",SCTV #2
+https://etslive-2-vidio-com.akamaized.net/exp=1580757204~acl=/hls-p/ingest_204_*/*~hmac=c88ef4d759cc623d6207ebb6ea0bdab42fc054dcdef8ac0dbde8231ac5fca40c/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Lokal TV Backup",SCTV #3
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/SCTV.png" group-title="Lokal TV Backup",SCTV #4
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Lokal TV Backup",Trans7 #1
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Lokal TV Backup",Trans7 #2
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-7.png" group-title="Lokal TV Backup",Trans7 #3
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-TV.png" group-title="Lokal TV Backup",TransTV #1
+http://210.210.155.35/session/0c6a6e58-11ca-11ea-92db-b82a72d63267/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/Trans-TV.png" group-title="Lokal TV Backup",TransTV #2
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TVKU.png" group-title="Lokal TV Backup",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TVRI.png" group-title="Lokal TV Backup",TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TV-One.png" group-title="Lokal TV Backup",TVOne #1
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/TV-One.png" group-title="Lokal TV Backup",TVOne #2
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 
