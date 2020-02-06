@@ -105,6 +105,21 @@ https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_9880
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="RELIGI",TV MUHAMMADIYAH
 https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
 
+#EXTINF:-1 group-title="RELIGI",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1 group-title="RELIGI",AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI",MEKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8 
+#EXTINF:-1 group-title="RELIGI",MADINA TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8 
+#EXTINF:-1 group-title="RELIGI",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8 
+#EXTINF:-1 group-title="RELIGI",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8 
+#EXTINF:-1 group-title="RELIGI",TAWAF TV
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
