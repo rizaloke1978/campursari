@@ -16,6 +16,8 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",TRANS 7 BACKUP
+http://210.210.155.35/session/2630537c-4954-11ea-a8e4-a60a8c662984/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648781-404e7880-46b9-11ea-91a5-a7442899f41f.jpg" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
