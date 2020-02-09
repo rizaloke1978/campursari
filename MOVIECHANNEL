@@ -216,7 +216,7 @@ https://dl.dropbox.com/s/c2zsw10qdub584b/netizen_astro2.m3u8?dl=0
 https://dl.dropbox.com/s/v0h68576s8rc717/netizen_astro3.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",ASTRO SUPER SPORT #4
 https://dl.dropbox.com/s/6tma11wgc3w0srn/netizen_astro4.m3u8?dl=0
-EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",EMENC Sport #1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",EMENC Sport #1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",EMENC Sport #2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
