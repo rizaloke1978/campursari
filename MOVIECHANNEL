@@ -1,4 +1,6 @@
 EXTM3U
+
+
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title=CocoFUNKY,CocoFun 001  
 http://vod.rizkikhaizir.com/cocofun/001.mp4
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/CocoFun.png" group-title=CocoFUNKY,CocoFun 002  
@@ -422,5 +424,35 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 01
+http://www.supercartube.com/media/videos/h264/281_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 02
+http://www.supercartube.com/media/videos/h264/282_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 03
+http://www.supercartube.com/media/videos/h264/283_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 04
+http://www.supercartube.com/media/videos/h264/284_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 05
+http://www.supercartube.com/media/videos/h264/285_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 06
+http://www.supercartube.com/media/videos/h264/286_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 07
+http://www.supercartube.com/media/videos/h264/287_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 08
+http://www.supercartube.com/media/videos/h264/288_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 09
+http://www.supercartube.com/media/videos/h264/289_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 10
+http://www.supercartube.com/media/videos/h264/290_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 11
+http://www.supercartube.com/media/videos/h264/291_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 12
+http://www.supercartube.com/media/videos/h264/292_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qtZWwB9z/anime.png" group-title="BORUTO", BORUTO EPS 13
+http://www.supercartube.com/media/videos/h264/293_720p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VSN3X0Zx/animetrans" group-title="BORUTO", BORUTO EPS 14
+http://www.supercartube.com/media/videos/h264/294_720p.mp4
+
 
 
