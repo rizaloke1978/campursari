@@ -21,6 +21,8 @@ http://210.210.155.35/session/2630537c-4954-11ea-a8e4-a60a8c662984/qwr9ew/s/s101
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648781-404e7880-46b9-11ea-91a5-a7442899f41f.jpg" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73648781-404e7880-46b9-11ea-91a5-a7442899f41f.jpg" group-title="INDONESIA",NET TV backup
+http://210.210.155.35/session/4efa77e0-4cd5-11ea-9b9d-c81f66f89318/qwr9ew/s/s08/20200203T050944-01-23067640.ts
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
