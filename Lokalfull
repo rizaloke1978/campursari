@@ -179,7 +179,6 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="KIDS",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
@@ -254,11 +253,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MOVIES",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FHD
-http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO Hits FHD
-http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",Fox Movie FHD
 http://139.99.68.120:8888/live/dwihari/dwi234/98.m3u8?token=QhBYV0dYRg4TC1wEVgUBUwYGBwBRCgoGWFcHBwdQVgRcAAMGDFZRDFAaSBAQEEJXVQhvWgIbCVwBGBJEElMTPVBWEgwWB1UMBAtGHkEQWV9RRwoDShtDDF0WChNTAFZQDBAcFFFIEFFDVgVePABVRF0GVRFcV0YJVRgSXg9pBQdUU15SFgpGBBMURlsQFBIIWhBcX0obUQxNRlFFBBRbQAsACQUWHEZXXk0KRhEdEggWKGkRShtWHU1RXkIIWQ9AAxBdBUEIRhgTURdtEQFDRkYAUV4DSxFfGwQSHUNbABpmUV9YWlUHQFhXCkFBXhIDFkkSXglXWhFWRm9BCFJDWBsDAQIABEZJ
@@ -292,9 +287,10 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN SD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN HD
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN HD
 http://210.210.155.35/session/d1ab5740-4cda-11ea-a286-a1dba6be2a18/uq2663/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MOVIES",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
