@@ -317,6 +317,9 @@ https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidi
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwZ4chhQ/message.jpg" group-title="MOVIE BARAT",The Messenger (Rasulullah) 
+https://d1.uptocloud.co:182/d/0/a8127ia7mcyi7x/[720p]The.Message.1976.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsMKRXgr/eg.jpg" group-title="MOVIE BARAT",AVENGERS END GAME
 https://d1.uptocloud.co:182/d/5/21k641jnaev9nn/[720p]Avengers.Endgame.2019.Open.Matte.BluRay.MELONGFILM.in.mp4
@@ -327,61 +330,68 @@ https://d1.uptocloud.co:182/d/9/cac1t1pdasnk3q/[720p]Avengers.Infinity.War.2018.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRjYKsbv/age.jpg" group-title="MOVIE BARAT",AVENGERS Age of ultron
 https://d1.uptocloud.co:182/d/0/f67ogkr0untt8d/[720p]Avengers.Age.of.Ultron.2015.REMASTERED.BluRay.MELONGFILM.in.mp4 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwZ4chhQ/message.jpg" group-title="MOVIE BARAT",The Messenger (Rasulullah) 
-https://d1.uptocloud.co:182/d/0/a8127ia7mcyi7x/[720p]The.Message.1976.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT", Spiderman -Homecoming
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZyhQnX9/hc.jpg" group-title="MOVIE BARAT", Spiderman-Homecoming
 https://d1.uptocloud.co:182/d/0/21dlmjuotrut0t/[720p]Spider-Man.Homecoming.2017.720p.UHD.BluRay%20%E2%80%A2%20MELONGFILM.in.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",Spiderman FarFromHome
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjf4nqss/ffromhome.jpg" group-title="MOVIE BARAT",Spiderman FarFromHome
 https://d1.uptocloud.co:182/d/1/13sz7vheyj5waf/[720p]Spider-Man.Far.from.Home.2019.EXTENDED.BluRay%20%E2%80%A2%20MELONGFILM.in.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",Saving Private Ryan
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfkL9L9/saving.jpg" group-title="MOVIE BARAT",Saving Private Ryan
 https://d1.uptocloud.co:182/d/9/yboeb053xv9s84/[720p]Saving%20Private%20Ryan.1998.BrRip%20[MELONGFILM.in].mp4
 
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",AVENGERS END GAME
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",AVENGERS END GAME
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIE BARAT",AVENGERS END GAME
-https://d1.uptocloud.co:182/d/7/rj3n31zlpkxoy4/[720p]The.Host.2020.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT0H11cJ/mother.jpg" group-title="MOVIE BARAT",Motherless Brooklyn
 https://d1.uptocloud.co:182/d/6/ur728efjor5ao0/[720p]Motherless.Brooklyn.2019.BluRay%20%E2%80%A2%20MELONGFILM.in.mp4
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vkd5CF9D/pokemon.jpg" group-title="MOVIE BARAT",POKEMON
 https://d1.uptocloud.co:182/d/6/6yermdf253d4uc/[720p]Melongfilm-Pokemon-Movie-22-2019-BluRay.mp4
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dT3jkDS/host.jpg" group-title="MOVIE BARAT",The Host
+https://d1.uptocloud.co:182/d/7/rj3n31zlpkxoy4/[720p]The.Host.2020.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxzqjVhr/light.jpg" group-title="MOVIE BARAT",Lighthouse
 https://d1.uptocloud.co:182/d/0/f0tea5wltb7pga/[720p]Melongfilm-Lighthouse-2019-BluRay.mp4
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1BpJc11/sister.jpg" group-title="MOVIE BARAT",SISTERS
 https://d1.uptocloud.co:182/d/2/2olfuiv9b25c31/[720p]Sisters.2019.NF.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7P9LtRmK/home.jpg" group-title="MOVIE BARAT",Home With a view of the Monster
 https://d1.uptocloud.co:182/d/3/yw8uoi22uc919t/[720p]Home.With.A.View.Of.The.Monster.2019.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ8z30bX/killing.jpg" group-title="MOVIE BARAT",Killing Gunther
 https://d1.uptocloud.co:182/d/0/ngq6st2xqho146/[720p]Killing.Gunther.2017.BluRay%20%E2%80%A2%20MELONGFILM.in.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KY3Kd5RR/kadaram.jpg" group-title="MOVIE BARAT",Kadaram Kondan (india) 
 https://d1.uptocloud.co:182/d/2/r818v7zz7wzya7/[720p]Kadaram.Kondan.2019.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCsGnP25/monos.jpg" group-title="MOVIE BARAT",Monos
 https://d1.uptocloud.co:182/d/8/12px90irptg19o/[720p]Monos.2019.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWrpmrG/informer.jpg" group-title="MOVIE BARAT",The Informer
 https://d1.uptocloud.co:182/d/8/cn3sv21u70m5h1/[720p]The.Informer.2019.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss0XqzMV/bumblebee.jpg" group-title="MOVIE BARAT",Bumblebee
 https://d1.uptocloud.co:182/d/7/o68fsyjfspza7z/[720p]Bumblebee.2018.BluRay%20[MELONGFILM.in].mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0tFPVDt/sfighter.jpg" group-title="MOVIE BARAT",STREET FIGHTER
 https://d1.uptocloud.co:182/d/8/zj7jdqarbgwl3x/[720p]Street.Fighter.Assassins.Fist.2014.BluRay%20[MELONGFILM.in].mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0506Rj2d/ocean8.jpg" group-title="MOVIE BARAT",Ocean 8
 https://d1.uptocloud.co:182/d/7/vyqfc6kxt4cfc3/[720p]Oceans.Eight.2018.BluRay%20[MELONGFILM.in].mp4
 
-https://d1.uptocloud.co:182/d/9/wy6xrg41ocaxdn/[720p]Bumblebee.2018.BluRay%20[MELONGFILM.in].mp4
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTBjCkrg/chunli.jpg" group-title="MOVIE BARAT",Street Fighter Chunli
 https://d1.uptocloud.co:182/d/7/5r6gmvg37gnv7k/[720p]Street.Fighter.The.Legend.Of.Chun-Li.2009.BluRay%20[MELONGFILM.in].mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLqF4SXY/jong.jpg" group-title="MOVIE BARAT",Kim Ji Young Born
 https://d1.uptocloud.co:182/d/3/qa3kuv5hfpwidk/[720p]Kim.Ji-young.Born.1982.2019.WEB-DL%20[MELONGFILM.in].mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHSZbVR9/war.jpg" group-title="MOVIE BARAT",WAR (india) 
 https://d1.uptocloud.co:182/d/3/67ex0ihbhxp0z5/[720p]War%202019%20[MELONGFILM.in].mp4
 
 
