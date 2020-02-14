@@ -84,7 +84,7 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKRBS0PN/FOX-Family.png" group-title="INDIHOME",FOX Family Movies
 http://111.221.44.148:19410/live/FOX/ID/9.ts
 
-#EXTINF:-1 tvg-logo="" group-title="INDIHOME",FOX Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjrsT6WD/Fox-Movies-Premium.png" group-title="INDIHOME",FOX Movies
 http://111.221.44.148:19410/live/FOX/ID/10.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q0M8wHY/fox-sports-logo-trans.png" group-title="INDIHOME",FOX SPORT 1
