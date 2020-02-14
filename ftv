@@ -80,6 +80,33 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="INDONESIA",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
+###############FOX##########################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKRBS0PN/FOX-Family.png" group-title="INDIHOME",FOX Family Movies
+http://111.221.44.148:19410/live/FOX/ID/9.ts
+
+#EXTINF:-1 tvg-logo="" group-title="INDIHOME",FOX Movies
+http://111.221.44.148:19410/live/FOX/ID/10.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q0M8wHY/fox-sports-logo-trans.png" group-title="INDIHOME",FOX SPORT 1
+http://111.221.44.148:19410/live/FOX/ID/12.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q0M8wHY/fox-sports-logo-trans.png" group-title="INDIHOME",FOX SPORT 2
+http://111.221.44.148:19410/live/FOX/ID/13.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q0M8wHY/fox-sports-logo-trans.png" group-title="INDIHOME",FOX SPORT 3
+http://111.221.44.148:19410/live/FOX/ID/14.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC3hs2v1/Fox_Movies_Premium.png" group-title="INDIHOME",FOX PREMIUM
+http://111.221.44.148:19410/live/FOX/ID/15.ts
+
+#EXTINF:-1 tvg-logo="" group-title="INDIHOME",FOX MOVIE CRIME
+http://111.221.44.148:19410/live/FOX/ID/16.ts
+
+#EXTINF:-1 tvg-logo="" group-title="INDIHOME",FOX LIFE
+http://111.221.44.148:19410/live/FOX/ID/17.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMk4kw50/foxaction.png" group-title="INDIHOME",FOX ACTION MOVIE
+http://111.221.44.148:19410/live/FOX/ID/8.ts
 
 
 
