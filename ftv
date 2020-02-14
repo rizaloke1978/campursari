@@ -105,7 +105,7 @@ http://111.221.44.148:19410/live/FOX/ID/16.ts
 #EXTINF:-1 tvg-logo="" group-title="INDIHOME",FOX LIFE
 http://111.221.44.148:19410/live/FOX/ID/17.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMk4kw50/foxaction.png" group-title="INDIHOME",FOX ACTION MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDsKJjXS/foxaction.png" group-title="INDIHOME",FOX ACTION MOVIE
 http://111.221.44.148:19410/live/FOX/ID/8.ts
 
 
