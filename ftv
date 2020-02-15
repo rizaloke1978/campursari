@@ -85,10 +85,10 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
 ##########################3sport
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="SPORTS",MNC SPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ThkjG5Kk/MNC-SPORT1.png" group-title="SPORTS",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="SPORTS",MNC SPORT 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Lh4kr38Y/MNC-SPORT2.png" group-title="SPORTS",MNC SPORT 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="SPORTS",TVRI SPORT
