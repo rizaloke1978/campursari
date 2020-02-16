@@ -601,7 +601,8 @@ http://52.77.225.107:19410/live/FOX/ID/44.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxlife.png" group-title="FOX Plus",Fox Life
 http://111.221.44.148:19410/live/FOX/ID/17.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxcrime.png" group-title="FOX Plus",Fox Crime
-http://52.77.225.107:19410/live/FOX/ID/44.ts
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Channel" tvg-logo="http://111.221.44.148:19410/image/tv/v2/fox.png" group-title="FOX Plus",Fox Channel
 http://111.221.44.148:19410/live/FOX/ID/15.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Movies" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxmo.png" group-title="FOX Plus",Fox Movies
