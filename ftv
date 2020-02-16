@@ -488,6 +488,10 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX MOVIES SD
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO noSub
+http://52.77.225.107:19410/live/HBO/ID/92.ts
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FAMILY SD
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
@@ -502,6 +506,11 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN HD
 http://210.210.155.35/session/d1ab5740-4cda-11ea-a286-a1dba6be2a18/uq2663/h/h141/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR WORLD nosub
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MOVIES",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
@@ -549,11 +558,11 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 <|-- FOX Plus
 ========================================================== 
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport.png" group-title="FOX Plus",Fox Sports 1
-http://111.221.44.148:19410/live/FOX/ID/12.ts
+http://111.221.44.148:19410/live/FOX/ID/16.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport2.png" group-title="FOX Plus",Fox Sports 2
-http://111.221.44.148:19410/live/FOX/ID/13.ts
+http://111.221.44.148:19410/live/FOX/ID/31.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport3.png" group-title="FOX Plus",Fox Sports 3
-http://111.221.44.148:19410/live/FOX/ID/14.ts
+http://111.221.44.148:19410/live/FOX/ID/44.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxlife.png" group-title="FOX Plus",Fox Life
 http://111.221.44.148:19410/live/FOX/ID/17.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxcrime.png" group-title="FOX Plus",Fox Crime
