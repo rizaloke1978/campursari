@@ -268,11 +268,17 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",Sky Sport Action
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT #1
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+http://52.77.225.107:19410/live/FOX/ID/16.ts
+
+#http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT #2
+http://52.77.225.107:19410/live/FOX/ID/31.ts
+
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT #3
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+http://52.77.225.107:19410/live/FOX/ID/44.ts
+
+#http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",True Sport #5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",True Sport #6
