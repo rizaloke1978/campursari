@@ -206,6 +206,19 @@ http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/522.png" group-title="BEIN SPORT", BeInSport NBA HD 
 http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
+#LIG INGGRIS
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="LIGA INGGRIS",Premier Football HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="LIGA INGGRIS",Premier Football HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="LIGA INGGRIS",Premier Football HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="LIGA INGGRIS",Premier Football HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="LIGA INGGRIS",Premier Football HD 5
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+
 ###########backup sport####
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",ASTRO SUPER SPORT #1
 https://dl.dropbox.com/s/75azqlctqjx5dba/netizen_astro1.m3u8?dl=0
