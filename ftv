@@ -152,6 +152,52 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 1
+
+http://52.77.225.107:19410/live/RUSIA/ID/107.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 2
+
+
+http://52.77.225.107:19410/live/RUSIA/ID/108.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 3
+
+
+http://52.77.225.107:19410/live/RUSIA/ID/109.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 1
+
+
+http://52.77.225.107:19410/live/RUSIA/ID/101.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 1
+
+http://52.77.225.107:19410/live/RUSIA/ID/102.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 2
+
+http://52.77.225.107:19410/live/RUSIA/ID/103.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 3
+
+http://52.77.225.107:19410/live/RUSIA/ID/104.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 5
+
+http://52.77.225.107:19410/live/RUSIA/ID/105.ts
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 6
+
+http://52.77.225.107:19410/live/RUSIA/ID/106.ts
+
+
 
 ########## BEIN SPORT ##############
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/110.png" group-title="BEIN SPORT", Bein Sports News
