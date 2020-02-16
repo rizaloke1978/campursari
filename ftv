@@ -347,18 +347,7 @@ http://viptv.accesss.me:25461/704054017646466/001647765616454/983
 http://viptv.accesss.me:25461/704054017646466/001647765616454/982
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",beIN Sports #8
 http://viptv.accesss.me:25461/704054017646466/001647765616454/981
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT
-http://viptv.accesss.me:25461/704054017646466/001647765616454/40583
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX Sport #1
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT #2 
-http://viptv.accesss.me:25461/704054017646466/001647765616454/40584
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX Sport #2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORT #3
-http://viptv.accesss.me:25461/704054017646466/001647765616454/40585
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX Sport #3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",FOX SPORTS PREMIUM
 http://viptv.accesss.me:25461/704054017646466/001647765616454/40586
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hts4cML6/BD2020.png" group-title="SportsBackup",ESPN #1
@@ -604,11 +593,11 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 <|-- FOX Plus
 ========================================================== 
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport.png" group-title="FOX Plus",Fox Sports 1
-http://111.221.44.148:19410/live/FOX/ID/16.ts
+http://52.77.225.107:19410/live/FOX/ID/16.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport2.png" group-title="FOX Plus",Fox Sports 2
-http://111.221.44.148:19410/live/FOX/ID/31.ts
+http://52.77.225.107:19410/live/FOX/ID/31.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport3.png" group-title="FOX Plus",Fox Sports 3
-http://111.221.44.148:19410/live/FOX/ID/44.ts
+http://52.77.225.107:19410/live/FOX/ID/44.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxlife.png" group-title="FOX Plus",Fox Life
 http://111.221.44.148:19410/live/FOX/ID/17.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxcrime.png" group-title="FOX Plus",Fox Crime
