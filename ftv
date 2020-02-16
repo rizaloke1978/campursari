@@ -1,18 +1,5 @@
 #EXTM3U
 
-##########info owner##########
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFORMASI",SEPUTAR PAREPARE
-https://video-xsp1-1.xx.fbcdn.net/v/t42.26565-2/10000000_133511284832031_246484643619650728_n.mp4?_nc_cat=109&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_oc=AQnQ61Mns_6hAnsTZZQB0iYcd1syvQHgLUjKPHLKWcv2KQHQmLvjh9GKaV8y0E662LM&_nc_ht=video-xsp1-1.xx&oh=b5330b1e129aafeb43d00b82b33a62d2&oe=5E491480
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzySQqnr/bldw.png" group-title="INFORMASI",Kode Gratis https://t.me/Rizalogi
-https://t.me/Rizalogi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzySQqnr/bldw.png" group-title="INFORMASI",Kode Premium https://t.me/Rizalogi
-http://bit.ly/WaRizalogi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFORMASI",DP RECORD INDONESIA
-https://d1.uptocloud.co:182/d/5/4rtvjg2mhrt1m4/AYU%20RAHAYU%20-%20TAK%20MUNGKIN%20BAGIKU.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFORMASI",DP RECORD KARAOKE
-https://d1.uptocloud.co:182/d/4/hj3ginw66jaq1u/Darwis%20Pryatna%20ft.%20Maya%20Majid%20-%20Alosi%20Ripolo%20Dua%20(%20Karaoke%20_%20No%20Vocal%20).mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFORMASI",DP RECORD FEAT AMNISTI
-https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei=9vBIXr71FpyJz7sPwfC0oAM&ip=180.249.203.235&id=o-AL8yPPJzQ7W36ALuvD7XHbSbAVtOjXjJwbpUMl7jW8KJ&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-02bl%2Csn-npoe7nlz&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=390000&vprv=1&mime=video%2Fmp4&gir=yes&clen=27877807&ratebypass=yes&dur=554.887&lmt=1529531770101045&mt=1581838467&fvip=5&fexp=23842630&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgESouKY1K8p8ThSOjSy7hEB709BIxrPNE-nywayD-fZgCIEvy4yANewSFbb7XkjM2zbM-LY51OzFVmnsLoEPmZ9x9&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgVVL1yRvLFFLR3VAe7UuxCGfqq1MAnDsRWiTJ3x-0zsoCICfduWwzzubzZFaxek4iCAXjzeQpxk1tf53PKfOWX-nJ
 
 ##############channel tv#############
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI
@@ -101,6 +88,21 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="INDONESIA",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
+
+##########info owner##########
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFO OWNER",SEPUTAR PAREPARE
+https://video-xsp1-1.xx.fbcdn.net/v/t42.26565-2/10000000_133511284832031_246484643619650728_n.mp4?_nc_cat=109&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_oc=AQnQ61Mns_6hAnsTZZQB0iYcd1syvQHgLUjKPHLKWcv2KQHQmLvjh9GKaV8y0E662LM&_nc_ht=video-xsp1-1.xx&oh=b5330b1e129aafeb43d00b82b33a62d2&oe=5E491480
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzySQqnr/bldw.png" group-title="INFO OWNER",Kode Gratis https://t.me/Rizalogi
+https://t.me/Rizalogi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzySQqnr/bldw.png" group-title="INFO OWNER",Kode Premium https://t.me/Rizalogi
+http://bit.ly/WaRizalogi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFO OWNER",DP RECORD INDONESIA
+https://d1.uptocloud.co:182/d/5/4rtvjg2mhrt1m4/AYU%20RAHAYU%20-%20TAK%20MUNGKIN%20BAGIKU.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFO OWNER",DP RECORD KARAOKE
+https://d1.uptocloud.co:182/d/4/hj3ginw66jaq1u/Darwis%20Pryatna%20ft.%20Maya%20Majid%20-%20Alosi%20Ripolo%20Dua%20(%20Karaoke%20_%20No%20Vocal%20).mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02bbpbTY/unnamed.jpg" group-title="INFO OWNER",DP RECORD FEAT AMNISTI
+https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei=9vBIXr71FpyJz7sPwfC0oAM&ip=180.249.203.235&id=o-AL8yPPJzQ7W36ALuvD7XHbSbAVtOjXjJwbpUMl7jW8KJ&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-02bl%2Csn-npoe7nlz&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=390000&vprv=1&mime=video%2Fmp4&gir=yes&clen=27877807&ratebypass=yes&dur=554.887&lmt=1529531770101045&mt=1581838467&fvip=5&fexp=23842630&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgESouKY1K8p8ThSOjSy7hEB709BIxrPNE-nywayD-fZgCIEvy4yANewSFbb7XkjM2zbM-LY51OzFVmnsLoEPmZ9x9&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgVVL1yRvLFFLR3VAe7UuxCGfqq1MAnDsRWiTJ3x-0zsoCICfduWwzzubzZFaxek4iCAXjzeQpxk1tf53PKfOWX-nJ
+
 
 ##########################3sport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLn6d8tr/MNC-SPORT1.png" group-title="SPORTS",MNC SPORT 1
@@ -1121,7 +1123,11 @@ https://media-vidio-com.akamaized.net/uploads/1778516/ets-eps_02-20heart-20onlin
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AblWqdq.jpg" group-title="HEART SERIES",HEART S01E01
 https://media-vidio-com.akamaized.net/uploads/1766535/ets-eps_01-20heart-20online-20mix_logo-20bawah-f594_high.mp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ftbB03nM/AFTER.jpg" group-title="FILM INDONESIA",After Met You
+http://i63.indiworlds.com:182/d/5mic4zeg7db4joax2ydflznmrgm3wkaf744o7bcpqbdotcejp2zxmcouhuxnxdaay4ibaiir/After.Meet.You.2019.WEBRip.720p.FMZM.mkv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xJFgG0nM/LOVEFOR.jpg" group-title="FILM INDONESIA",Love for Sale 2
+http://i65.indiworlds.com:182/d/5eid2xmg7db4joax2qdat47u2avsfhuqek7rtohluntwuwy5xdlr7vnssxyfiah6k2ibqjt4/Love.for.Sale.2.2019.WEB-DL.720p.FMZM.mkv
 #EXTINF:-1 tvg-logo="" group-title="FILM INDONESIA",Akibat Hamil Muda (1993) 
 https://www.googleapis.com/drive/v3/files/1o8qTvUcYya9MxtiRaznSm9j8rgZF4yie?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 
