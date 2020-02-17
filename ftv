@@ -134,7 +134,7 @@ http://103.146.185.235:8888/live/stress/bersama/742.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",BLUE N EXTREME
 http://103.146.185.235:8888/live/stress/bersama/513.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",EFLIX
-http://103.146.185.235:8888/live/stress/bersama/731.ts
+#http://103.146.185.235:8888/live/stress/bersama/731.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",SINEMA INDO
 http://103.146.185.235:8888/live/stress/bersama/625.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",BIOSKOP INDO
