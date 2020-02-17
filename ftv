@@ -897,24 +897,24 @@ http://35.204.252.180:5454/usa2020/amcusa/chunks.m3u8?nimblesessionid=1141709&wm
 <|-- FOX Plus
 ========================================================== 
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport.png" group-title="FOX Plus",Fox Sports 1
-http://52.77.225.107:19410/live/FOX/ID/16.ts
+#http://52.77.225.107:19410/live/FOX/ID/16.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport2.png" group-title="FOX Plus",Fox Sports 2
-http://52.77.225.107:19410/live/FOX/ID/31.ts
+#http://52.77.225.107:19410/live/FOX/ID/31.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxsport3.png" group-title="FOX Plus",Fox Sports 3
-http://52.77.225.107:19410/live/FOX/ID/44.ts
+#http://52.77.225.107:19410/live/FOX/ID/44.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxlife.png" group-title="FOX Plus",Fox Life
-http://111.221.44.148:19410/live/FOX/ID/17.ts
+#http://111.221.44.148:19410/live/FOX/ID/17.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxcrime.png" group-title="FOX Plus",Fox Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Channel" tvg-logo="http://111.221.44.148:19410/image/tv/v2/fox.png" group-title="FOX Plus",Fox Channel
-http://111.221.44.148:19410/live/FOX/ID/15.ts
+#http://111.221.44.148:19410/live/FOX/ID/15.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Movies" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxmo.png" group-title="FOX Plus",Fox Movies
-http://52.77.225.107:19410/live/FOX/ID/14.ts
+#http://52.77.225.107:19410/live/FOX/ID/14.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Family Movies" tvg-logo="http://111.221.44.148:19410/image/tv/v2/fox.png" group-title="FOX Plus",Fox Family Movies
-http://52.77.225.107:19410/live/FOX/ID/13.ts
+#http://52.77.225.107:19410/live/FOX/ID/13.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Action Movies" tvg-logo="http://111.221.44.148:19410/image/tv/v2/foxmo.png" group-title="FOX Plus",Fox Action Movies
-http://52.77.225.107:19410/live/FOX/ID/15.ts
+#http://52.77.225.107:19410/live/FOX/ID/15.ts
 
 
 <|-- Kids
