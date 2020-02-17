@@ -156,12 +156,10 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 http://185.63.254.79:4747/sports2020/foxsp1usa/chunks.m3u8?nimblesessionid=43867422&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MzIgQU0maGFzaF92YWx1ZT1lbEw5ZkhwQTI5TDBuNVNvNFZ5eTVBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORT 2 USA
-
 http://185.63.254.79:4747/sports2020/foxsp2usa/chunks.m3u8?nimblesessionid=43867545&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6NTEgQU0maGFzaF92YWx1ZT1LVUtKQXp3QTJwSXllcHBocEY1THZRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 3
-http://52.77.225.107:19410/live/RUSIA/ID/109.ts
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SATANTA SPORT
+http://185.63.254.79:4747/sports2020/setantasp/chunks.m3u8?nimblesessionid=43867882&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6NTQgQU0maGFzaF92YWx1ZT1ncFNqaExvYXpkWGpsTzhtbXJjeVhnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 1
 http://185.63.254.79:4747/sports2020/arenasp1/chunks.m3u8?nimblesessionid=43861980&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6MTUgQU0maGFzaF92YWx1ZT1rQkVqRTJjQ1p6eVRYeU03SThYK1NRPT0mdmFsaWRtaW51dGVzPTI=
