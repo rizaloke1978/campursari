@@ -493,12 +493,17 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MOVIES",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.stickpng.com/thumbs/5a0ac9495a997e1c2cea10b8.png" group-title="MOVIES", Cinema World
+http://210.210.155.66/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo"" group-title="MOVIES",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo"" group-title="MOVIES",FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="MOVIES", HBO (HD)
+http://tvku.live:8888/live/dwihari/dwi234/210.m3u8
 
 #EXTINF:-1 tvg-logo"" group-title="MOVIES",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
@@ -509,6 +514,8 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044
 #EXTINF:-1 tvg-logo"" group-title="MOVIES",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
+#EXTINF:-1 tvg-logo"" group-title="MOVIES",HBO Signature US
+http://35.204.252.180:5454/usa2020/hbosingnature/chunks.m3u8?nimblesessionid=1141497&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTU6MzcgQU0maGFzaF92YWx1ZT1pRXozMkZwWFY3S0dMOFJXSTdaR0xnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX FAMILY MOVIES SD
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
@@ -581,6 +588,42 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MOVIES",ZEE BIOSKOP SERVER 2
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIES NOW HD
+http://94.130.175.89:4545/uk2020/moviesnowhd/chunks.m3u8?nimblesessionid=2113144&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDM6NTMgQU0maGFzaF92YWx1ZT1MVmdHQksxaGlHTGw2VHJkM2I1OTB3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MNX HD
+http://94.130.175.89:4545/uk2020/mnxhd/chunks.m3u8?nimblesessionid=2113105&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDM6MzYgQU0maGFzaF92YWx1ZT1RdCsveEpPR05ORDVqdStBSDcwN2FnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MN PLUS HD
+http://94.130.175.89:4545/uk2020/mnplushd/chunks.m3u8?nimblesessionid=2113057&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDM6MTkgQU0maGFzaF92YWx1ZT1PdHBPbXpIZURQVjV0Z0NMOEYxQ21RPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",WARNER BROS
+http://94.130.175.89:4545/uk2020/warnerbros/chunks.m3u8?nimblesessionid=2112814&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDE6NTcgQU0maGFzaF92YWx1ZT1Qb1JQTS9yNTBjaXFkb1FKVzMvdlNnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN
+http://94.130.175.89:4545/uk2020/axn/chunks.m3u8?nimblesessionid=2112701&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDE6MjcgQU0maGFzaF92YWx1ZT1RR1BKRXNkQklpcTV0WHJMcjRIcVd3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY TWO MOVIES
+http://94.130.175.89:4545/uk2020/SKYTWO/chunks.m3u8?nimblesessionid=2112578&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDA6NTUgQU0maGFzaF92YWx1ZT1XNUpvdXQxaXBoMHc4QWkzeFpxZXVBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY ONE MOVIES
+http://94.130.175.89:4545/uk2020/SKYONE/chunks.m3u8?nimblesessionid=2112518&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDA6NDEgQU0maGFzaF92YWx1ZT1JZTZQQ3A0SktJd0JPV0ljOUtzcHhBPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY MOVIES GREAT
+http://94.130.175.89:4545/uk2020/SkyMoviesGreats/chunks.m3u8?nimblesessionid=2112443&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDA6MjQgQU0maGFzaF92YWx1ZT1EL0IyclA4NjBydUh6bXhGb1VhM0h3PT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY MOVIES CRIME
+http://94.130.175.89:4545/uk2020/SkyMoviesCrime/chunks.m3u8?nimblesessionid=2112379&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6MDA6MTAgQU0maGFzaF92YWx1ZT1rNTF6Zm1mcjYyMEkvTUxhVm1HUGNnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY MOVIES HORROR
+http://94.130.175.89:4545/uk2020/SkyMoviesSciFiHorror/chunks.m3u8?nimblesessionid=2112259&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTk6NDEgQU0maGFzaF92YWx1ZT1Ta2NXdCtHQllBYkQyYTI2VGVQVkJRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY MOVIES ACTION
+http://94.130.175.89:4545/uk2020/SkyMoviesAction/chunks.m3u8?nimblesessionid=2112210&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTk6MjAgQU0maGFzaF92YWx1ZT1hdmwzWmtxUHBRb3BCZGE5RnV5cDhRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SKY MOVIES PREMIERE
+http://94.130.175.89:4545/uk2020/SkyMoviesPremiere/chunks.m3u8?nimblesessionid=2112160&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTk6MDEgQU0maGFzaF92YWx1ZT1hU2VYVjM5eTN1NHhRcHBrUktzQlhBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX MOVIES
+http://94.130.175.89:4545/uk2020/foxmovies/chunks.m3u8?nimblesessionid=2112080&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTg6MTkgQU0maGFzaF92YWx1ZT0veVR5S2tCMlNyUEo3RU0yWkpZaXdBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FX US
+http://35.204.252.180:5454/usa2020/fxus/chunks.m3u8?nimblesessionid=1141898&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTc6MjggQU0maGFzaF92YWx1ZT1TeVZ4dm5SNFdjVW5ROXN0R3NvUnFRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STARZ
+http://35.204.252.180:5454/usa2020/starz/chunks.m3u8?nimblesessionid=1141750&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTY6NTkgQU0maGFzaF92YWx1ZT11RVFKMGNvM1VWK09aa1hBR2xIaVBnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",AMC US
+http://35.204.252.180:5454/usa2020/amcusa/chunks.m3u8?nimblesessionid=1141709&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6NTY6MzAgQU0maGFzaF92YWx1ZT0rM0Z3WnZsSUUwOWkvT0tWamc4SHJRPT0mdmFsaWRtaW51dGVzPTI=
+
 
 
 <|-- FOX Plus
