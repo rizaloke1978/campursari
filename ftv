@@ -152,51 +152,46 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORT 1 USA
+http://185.63.254.79:4747/sports2020/foxsp1usa/chunks.m3u8?nimblesessionid=43867422&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MzIgQU0maGFzaF92YWx1ZT1lbEw5ZkhwQTI5TDBuNVNvNFZ5eTVBPT0mdmFsaWRtaW51dGVzPTI=
 
-http://52.77.225.107:19410/live/RUSIA/ID/107.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORT 2 USA
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 2
-
-
-http://52.77.225.107:19410/live/RUSIA/ID/108.ts
+http://185.63.254.79:4747/sports2020/foxsp2usa/chunks.m3u8?nimblesessionid=43867545&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6NTEgQU0maGFzaF92YWx1ZT1LVUtKQXp3QTJwSXllcHBocEY1THZRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",PL SPORT 3
-
-
 http://52.77.225.107:19410/live/RUSIA/ID/109.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 1
-
-
-http://52.77.225.107:19410/live/RUSIA/ID/101.ts
+http://185.63.254.79:4747/sports2020/arenasp1/chunks.m3u8?nimblesessionid=43861980&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6MTUgQU0maGFzaF92YWx1ZT1rQkVqRTJjQ1p6eVRYeU03SThYK1NRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 2
-
-http://52.77.225.107:19410/live/RUSIA/ID/102.ts
-
+http://185.63.254.79:4747/sports2020/arenasp2/chunks.m3u8?nimblesessionid=43862084&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6MjkgQU0maGFzaF92YWx1ZT1Xb3lrVElwNHljYnBSQWVrZ095UUpRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 3
-
-http://52.77.225.107:19410/live/RUSIA/ID/103.ts
-
+http://185.63.254.79:4747/sports2020/arenasp3/chunks.m3u8?nimblesessionid=43862228&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6NDYgQU0maGFzaF92YWx1ZT1GV3dTL2U5Uy9ndXo3SW1tS0VHTHF3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 4
-
-http://52.77.225.107:19410/live/RUSIA/ID/104.ts
-
+http://185.63.254.79:4747/sports2020/arenasp4/chunks.m3u8?nimblesessionid=43867114&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MDk6NDEgQU0maGFzaF92YWx1ZT1KY0o0emhvTmpHaFBxc1VqYTM4K2FnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 5
+http://185.63.254.79:4747/sports2020/arenasp5/chunks.m3u8?nimblesessionid=43867236&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MDAgQU0maGFzaF92YWx1ZT0xVlVBYnNHeHQwSFY2ZysyNE9KWjVnPT0mdmFsaWRtaW51dGVzPTI=
 
-http://52.77.225.107:19410/live/RUSIA/ID/105.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
+http://185.63.254.79:4747/sports2020/chelseatv/chunks.m3u8?nimblesessionid=43867658&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MTAgQU0maGFzaF92YWx1ZT1JS1l5NURoZGhpK0svUWFBN0dhUHFRPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",LIVERPOL TV
+http://185.63.254.79:4747/sports2020/lfctv/chunks.m3u8?nimblesessionid=43867808&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MzkgQU0maGFzaF92YWx1ZT1xWDJFZktpWVIyeitQV25URjRSdmtBPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",MU TV
+http://185.63.254.79:4747/sports2020/mutv/chunks.m3u8?nimblesessionid=43868024&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6MjAgQU0maGFzaF92YWx1ZT1jeWduL3l5V3RUaGo3WS9pK2FjNGxBPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 6
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",REAL MADRID TV
+http://185.63.254.79:4747/sports2020/realmadrid/chunks.m3u8?nimblesessionid=43868161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6NTMgQU0maGFzaF92YWx1ZT1EZk5uOVdYZkFSQlFnTVAvYitSWHJRPT0mdmFsaWRtaW51dGVzPTI=
 
-http://52.77.225.107:19410/live/RUSIA/ID/106.ts
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEIN USA
+http://185.63.254.79:4747/sports2020/beinusa/chunks.m3u8?nimblesessionid=43867742&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MjYgQU0maGFzaF92YWx1ZT1ieHZGcXJFOUtZMFJ0OUZKTnlraDhnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 ########## BEIN SPORT ##############
