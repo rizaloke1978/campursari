@@ -29,6 +29,8 @@ http://rr2.dens.tv/s/s102/index2.m3u8
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/sctv.png" group-title="INDONESIA",SCTV+
+https://etslive-2-vidio-com.akamaized.net/exp=1581987549~acl=/hls-b/ingest_204_*/*~hmac=a0407badb744a4c6d47eca143b1ac64a27123e6364ebb04d302cc8efae8a89e3/hls-b/ingest_204_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
