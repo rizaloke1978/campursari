@@ -18,7 +18,7 @@ https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w506483993_b1344100_sleng
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",AXN
 https://cdnkbl2.useetv.com/joss/17/axn/chunklist_w1460113947_b1344100_sleng.m3u8?enc=CYtw8VURQDC6foYavm2PuA&exp=1582047531
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",WARNER
 https://cdnkbl1.useetv.com/joss/194/warner/chunklist_w1824014452_b1344100_sleng.m3u8?enc=RXKo3sgHTEJVhsSzJCVlvw&exp=1582048202
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CITRA DRAMA
@@ -31,3 +31,32 @@ https://cdnbal1.useetv.com/joss/14/chinesedrama/chunklist_w1263047177_b684100_sl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",DUNIA ANAK
 https://cdnbal1.useetv.com/joss/14/duniaanak/chunklist_w909660489_b684100_sleng.m3u8?enc=NycZpTvJO9mUGPM19nQrKQ&exp=1582047543
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",NAT GEO
+https://cdnbdsa1.useetv.com/joss/17/natgeo/chunklist_w1626953290_b1344100_sleng.m3u8?enc=56FuUFBw6CaUf5NGd-ozPQ&exp=1582048390
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",NAT GEO WILD
+https://cdnbpp1.useetv.com/joss/17/natgeowild/chunklist_w806822076_b1344100_sleng.m3u8?enc=vAbt_41qqv4KxpO7q7JB_A&exp=1582048448
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",DISCOVERY
+https://cdnmdc2.useetv.com/joss/17/disco/chunklist_w361526786_b1344100_sleng.m3u8?enc=171HHhtytNz7SakojLt8EA&exp=1582048475
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CHAMPION 1
+https://cdnkbl1.useetv.com/joss/194/champion1/chunklist_w1039231200_b1344100_sleng.m3u8?enc=Vtois9NiMr8i7LuSoYoT3w&exp=1582048520
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CHAMPION 2
+https://cdnmdc2.useetv.com/joss/194/champion2/chunklist_w950524272_b1344100_sleng.m3u8?enc=cgegUgu8DqktPJlfq1s79A&exp=1582048524
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",USEE SSPORT 1
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1458113990_b1344100_sleng.m3u8?enc=XRtlv4-4pHVhFC9Kbe37uw&exp=1582048566
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",USEE SPORT 2
+https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w480894789_b1344100_sleng.m3u8?enc=8mUF8ju_wkjp3RaNTs37iA&exp=1582048568
+
+
