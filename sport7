@@ -18,6 +18,9 @@ https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w506483993_b1344100_sleng
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",AXN
 https://cdnkbl2.useetv.com/joss/17/axn/chunklist_w1460113947_b1344100_sleng.m3u8?enc=CYtw8VURQDC6foYavm2PuA&exp=1582047531
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",AXN
+https://cdnkbl1.useetv.com/joss/194/warner/chunklist_w1824014452_b1344100_sleng.m3u8?enc=RXKo3sgHTEJVhsSzJCVlvw&exp=1582048202
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CITRA DRAMA
 https://cdnmdc2.useetv.com/joss/14/cdrama/chunklist_w754680317_b684100_sleng.m3u8?enc=Mau5t4FCUJSHHpsLBcrgWA&exp=1582047521
 
