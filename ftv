@@ -216,7 +216,7 @@ http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQB
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DsdHKY/La-Liga.png" group-title="SPORTS",ETV SPORTS PLUS
 
-http://103.146.185.235:8888/live/stress/bersama/574.ts
+#http://103.146.185.235:8888/live/stress/bersama/574.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PPWwDxb/DIEMA-SPORT-2.png" group-title="SPORTS",DIEMA SPORTS 2
 http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
