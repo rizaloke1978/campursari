@@ -92,6 +92,8 @@ https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1245890359_b68410
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",KBS WORLD
 https://cdnmdc1.useetv.com/joss/194/kbsworld/chunklist_w999752204_b1344100_sleng.m3u8?enc=ND9db8P981sDGjrac6OV2Q&exp=1582049651
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",KBS WORLD
+https://cdnmdc1.useetv.com/joss/14/hiindo/chunklist_w878112383_b684100_sleng.m3u8?enc=H24ZCRAAvKuzZAe1sA6Dsw&exp=1582051642
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",VOD TESTER
 https://vod2.useetv.com/vod/mp4:vod/vod/video/kpl/new/KPL180016%20THE%20MIRACLE%2007.mp4/chunklist_w1228003133.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TOD VIRL VIDEO SHOWDOWN
