@@ -2,21 +2,29 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
 https://cdnkbal.useetv.com/joss/15/trans7/chunklist_w162748379_b1344100_sleng.m3u8?enc=P70SZ2ikmtaYmIk1eH6GLQ&exp=1582046092
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",INDOSIAR
+https://cdnkbl2.useetv.com/joss/15/indosiar/chunklist_w1512367624_b894100_sleng.m3u8?enc=m_z8F4geSIZVBO2Hwd5yJQ&exp=1582046944
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",FOX SPORT 1
+https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w1419189169_b1344100_sleng.m3u8?enc=xo7mIMGwYEfiUeZfVAk7dQ&exp=1582047025
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",FOX SPORT 2
+https://cdnmdc2.useetv.com/joss/17/foxsport2/chunklist_w608433487_b1344100_sleng.m3u8?enc=Jgh9Ju8wajLtJ7VwkgIBew&exp=1582047415
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",FOX SPORT 3
+https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w506483993_b1344100_sleng.m3u8?enc=mC6x2fipRx_UjKelhaDCdw&exp=1582047417
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",AXN
+https://cdnkbl2.useetv.com/joss/17/axn/chunklist_w1460113947_b1344100_sleng.m3u8?enc=CYtw8VURQDC6foYavm2PuA&exp=1582047531
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CITRA DRAMA
+https://cdnmdc2.useetv.com/joss/14/cdrama/chunklist_w754680317_b684100_sleng.m3u8?enc=Mau5t4FCUJSHHpsLBcrgWA&exp=1582047521
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",CHINESE DRAMA
+https://cdnbal1.useetv.com/joss/14/chinesedrama/chunklist_w1263047177_b684100_sleng.m3u8?enc=CsiPafqqhduTVpOZ6LD1Cg&exp=1582047538
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANS7
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",DUNIA ANAK
+https://cdnbal1.useetv.com/joss/14/duniaanak/chunklist_w909660489_b684100_sleng.m3u8?enc=NycZpTvJO9mUGPM19nQrKQ&exp=1582047543
