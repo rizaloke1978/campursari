@@ -5,6 +5,21 @@ https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w162748379_b1344100_sleng.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",INDOSIAR
 https://cdnkbl2.useetv.com/joss/15/indosiar/chunklist_w1512367624_b894100_sleng.m3u8?enc=m_z8F4geSIZVBO2Hwd5yJQ&exp=1582046944
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",SCTV
+https://cdnbpp1.useetv.com/joss/15/sctv/chunklist_w628568220_b1344100_sleng.m3u8?enc=3RwQh_xpt6QCMKHa4QmLxg&exp=1582050480
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TRANSTV
+https://cdnmdc1.useetv.com/joss/15/transtv/chunklist_w882648743_b1344100_sleng.m3u8?enc=eXqsi3MmvVkEmrFuzJwx8Q&exp=1582050482
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",KOMPAS TV
+https://cdnmdc2.useetv.com/joss/15/kompastv/chunklist_w36600130_b894100_sleng.m3u8?enc=Y5weFdBok_HFobW99xdMNQ&exp=1582050486
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",NET TV
+https://cdnjt25.useetv.com/joss/15/net/chunklist_w1328391570_b1344100_sleng.m3u8?enc=1uXh79RkwyHVdT5jv9Acxg&exp=1582050489
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",METRO TV
+https://cdnkbl2.useetv.com/joss/15/metrotv/chunklist_w943795511_b1344100_sleng.m3u8?enc=X80QCykUAGfXA3DjvpguPA&exp=1582050491
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",ANTV
+https://edgejt6.useetv.com/joss/15/antv/chunklist_w396178628_b894100_sleng.m3u8?enc=gHEqxOKrD3FqXjE5R89uQA&exp=1582050494
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TV ONE
+https://cdnjt25.useetv.com/joss/15/tvone/chunklist_w571909526_b894100_sleng.m3u8?enc=D9wzosZTEGDtI7RRGsykSQ&exp=1582050796
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",FOX SPORT 1
 https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w1419189169_b1344100_sleng.m3u8?enc=xo7mIMGwYEfiUeZfVAk7dQ&exp=1582047025
 
