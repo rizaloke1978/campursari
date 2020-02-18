@@ -94,5 +94,7 @@ https://cdnmdc1.useetv.com/joss/194/kbsworld/chunklist_w999752204_b1344100_sleng
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",VOD TESTER
 https://vod2.useetv.com/vod/mp4:vod/vod/video/kpl/new/KPL180016%20THE%20MIRACLE%2007.mp4/chunklist_w1228003133.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TOD VIRL VIDEO SHOWDOWN
+https://cdnjt21.useetv.com/tvod/mp4/axn_3/1581464400/1581466200/chunklist.m3u8?stime=20200218160000&etime=20200218170000&encoded=08ffc9de0d2932a0f7c56
 
 
