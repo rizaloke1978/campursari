@@ -570,7 +570,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="Astro - Sport", Olympics Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8?
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS" group-title="Astro - Sport", Olympic 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="Astro - Sport" group-title="Astro - Sport", Olympic 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="Astro - Sport", Olympic 2
