@@ -413,17 +413,134 @@ http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/522.png" group-title="BEIN SPORT", BeInSport NBA HD 
 http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
-#LIG INGGRIS
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="LIGA INGGRIS",Premier Football HD 1
-#https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="LIGA INGGRIS",Premier Football HD 2
-#https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="LIGA INGGRIS",Premier Football HD 3
-#https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="LIGA INGGRIS",Premier Football HD 4
-#https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="LIGA INGGRIS",Premier Football HD 5
-#https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sonysix.png" group-title="ZAL-SPORTS",Sony SIX
+https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ten1.png" group-title="ZAL-SPORTS",Sony TEN 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ten2.png" group-title="ZAL-SPORTS",Sony TEN 2
+https://streamer-1.toffeelive.com/live/ten_2_576/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ten3.png" group-title="ZAL-SPORTS",Sony TEN 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sonyespn.png" group-title="ZAL-SPORTS",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fightZAL-SPORTS.png" group-title="ZAL-SPORTS",Fight ZAL-SPORTS
+https://liveanevia.mncnow.id/live/eds/FightZAL-SPORTS/sa_hls/FightZAL-SPORTS.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mncZAL-SPORTS1.png" group-title="ZAL-SPORTS",MNC ZAL-SPORTS
+https://liveanevia.mncnow.id/live/eds/MNCZAL-SPORTS/sa_hls/MNCZAL-SPORTS.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mncZAL-SPORTS2.png" group-title="ZAL-SPORTS",MNC ZAL-SPORTS 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxsport.png" group-title="ZAL-SPORTS",FOX ZAL-SPORTS
+https://liveanevia.mncnow.id/live/eds/FOXZAL-SPORTS/sa_hls/FOXZAL-SPORTS.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxZAL-SPORTS2.png" group-title="ZAL-SPORTS",FOX ZAL-SPORTS 2
+https://liveanevia.mncnow.id/live/eds/FoxZAL-SPORTS2/sa_hls/FoxZAL-SPORTS2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxZAL-SPORTS3.png" group-title="ZAL-SPORTS",FOX ZAL-SPORTS 3
+https://liveanevia.mncnow.id/live/eds/FoxZAL-SPORTS3/sa_hls/FoxZAL-SPORTS3.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/beinZAL-SPORTS1.png" group-title="ZAL-SPORTS",beIN ZAL-SPORTS 1
+https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/beinZAL-SPORTS1.png" group-title="ZAL-SPORTS",beIN ZAL-SPORTS 2
+https://doofree88.com/streaming/epl-bein2_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/edgesport.png" group-title="ZAL-SPORTS",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgeZAL-SPORTS/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dsport.png" group-title="ZAL-SPORTS",DSport
+http://jiocgehub.jio.ril.com/DZAL-SPORTS_HD/DZAL-SPORTS_HD_800.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sport1.png" group-title="ZAL-SPORTS",Sport 1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/redbulltv.png" group-title="ZAL-SPORTS",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/racing.png" group-title="ZAL-SPORTS",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/eurosp1.png" group-title="ZAL-SPORTS",Eurosport 1
+http://ott.artmott.com/eurosport1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/eurosp2.png" group-title="ZAL-SPORTS",Eurosport 2
+http://ott.artmott.com/eurosport2/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dubairacing1.png" group-title="ZAL-SPORTS",Dubai Racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dubairacing2.png" group-title="ZAL-SPORTS",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cockfight.png" group-title="ZAL-SPORTS",Sabung Ayam
+https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp1.png" group-title="ZAL-SPORTS",Arena Sport 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp2.png" group-title="ZAL-SPORTS",Arena Sport 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp3.png" group-title="ZAL-SPORTS",Arena Sport 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp4.png" group-title="ZAL-SPORTS",Arena Sport 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp5.png" group-title="ZAL-SPORTS",Arena Sport 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/useeZAL-SPORTS.png" group-title="ZAL-SPORTS",Usee Sport
+https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/useeZAL-SPORTS2.png" group-title="ZAL-SPORTS",Usee Sport 2
+https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/championtv1.png" group-title="ZAL-SPORTS",Champions TV 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/championtv2.png" group-title="ZAL-SPORTS",Champions TV 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp1.png" group-title="ZAL-SPORTS",Arena Sport 1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp2.png" group-title="ZAL-SPORTS",Arena Sport 2
+https://www.doofree88.com/streaming/rs-arena2_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp3.png" group-title="ZAL-SPORTS",Arena Sport 3
+https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp4.png" group-title="ZAL-SPORTS",Arena Sport 4
+https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp5.png" group-title="ZAL-SPORTS",Arena Sport 5
+https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss1.png" group-title="ZAL-SPORTS",SuperSport 1
+https://doofree88.com/streaming/al-superZAL-SPORTS1_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss2.png" group-title="ZAL-SPORTS",SuperSport 2
+https://doofree88.com/streaming/al-superZAL-SPORTS2_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss3.png" group-title="ZAL-SPORTS",SuperSport 3
+https://doofree88.com/streaming/al-superZAL-SPORTS3_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss4.png" group-title="ZAL-SPORTS",SuperSport 4
+https://doofree88.com/streaming/al-superZAL-SPORTS4_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss5.png" group-title="ZAL-SPORTS",SuperSport 5
+https://doofree88.com/streaming/al-superZAL-SPORTS5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky1.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 1
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS1_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky2.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 2
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS2_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky3.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 3
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS3_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky4.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 4
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS4_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky5.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 5
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky6.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS 6
+https://doofree88.com/streaming/sd-skynetZAL-SPORTS6_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/skyhd.png" group-title="ZAL-SPORTS",Skynet ZAL-SPORTS HD
+https://doofree88.com/streaming/sd-skynetZAL-SPORTShd_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truepremier1.png" group-title="ZAL-SPORTS",Premier Football HD1
+https://doofree88.com/streaming/epl-x1_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truepremier2.png" group-title="ZAL-SPORTS",Premier Football HD2
+https://doofree88.com/streaming/epl-x2_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truepremier3.png" group-title="ZAL-SPORTS",Premier Football HD3
+https://doofree88.com/streaming/epl-x3_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truepremier4.png" group-title="ZAL-SPORTS",Premier Football HD4
+https://doofree88.com/streaming/epl-x4_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truepremier5.png" group-title="ZAL-SPORTS",Premier Football HD5
+https://doofree88.com/streaming/epl-x5_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truesport1.png" group-title="ZAL-SPORTS",True Sport HD1
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truesport2.png" group-title="ZAL-SPORTS",True Sport HD2
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truesport3.png" group-title="ZAL-SPORTS",True Sport HD3
+https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/truesport4.png" group-title="ZAL-SPORTS",True Sport HD4
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/trueZAL-SPORTS2.png" group-title="ZAL-SPORTS",True Sport 2
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/trueZAL-SPORTS5.png" group-title="ZAL-SPORTS",True Sport 5
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/trueZAL-SPORTS6.png" group-title="ZAL-SPORTS",True Sport 6
+https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/trueZAL-SPORTS7.png" group-title="ZAL-SPORTS",True Sport 7
+https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mutv.png" group-title="ZAL-SPORTS",MUTV
+https://doofree88.com/streaming/uk-mutv_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/lfctv.png" group-title="ZAL-SPORTS",LFC TV
+https://doofree88.com/streaming/uk-lfctv_480/index.m3u8
 ##############astro sport nurul
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.favpng.com/11/1/13/logo-atv-television-corporate-identity-lyngsat-png-favpng-rpir1awSsumCTwEC2ExsicR7w.jpg" group-title="Astro - Sport", ATGV Sport
