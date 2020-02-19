@@ -254,19 +254,19 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ck2wZL3/arena-sport-rs-5.png" group-title="SPORTS",ARENA SPORT 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:1, group-title="SPORTS",EuroSport 1
+#EXTINF:-1 group-title="SPORTS",EuroSport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 
-#EXTINF:1, group-title="SPORTS",EuroSport 2
+#EXTINF:-1 group-title="SPORTS",EuroSport 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
-#EXTINF:1, group-title="SPORTS",Fox Sport 1 backup
+#EXTINF:-1 group-title="SPORTS",Fox Sport 1 backup
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
 
-#EXTINF:1, group-title="SPORTS",Fox Sport 2 backup
+#EXTINF:-1 group-title="SPORTS",Fox Sport 2 backup
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 
-#EXTINF:1, group-title="SPORTS",Fox Sport 3 backup
+#EXTINF:-1 group-title="SPORTS",Fox Sport 3 backup
 https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 
 
