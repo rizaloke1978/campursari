@@ -57,9 +57,9 @@ http://210.210.155.35/session/4efa77e0-4cd5-11ea-9b9d-c81f66f89318/qwr9ew/s/s08/
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/gtv.png" group-title="INDONESIA",GTV+
 #https://etslive-2-vidio-com.akamaized.net/exp=1581987548~acl=/hls-b/ingest_778_*/*~hmac=04120228b91fe7f2591d6b7b09ccc1baa82c2cbc2e08f414b989dcaeda52192f/hls-b/ingest_778_480p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1582163948~acl=/hls-b/ingest_778_*/*~hmac=a2c74ec22eee35117e3c3f1a3eea5db22bd70680a16eed715a67d7b006a8efd1/hls-b/ingest_778_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582163948~acl=/hls-b/ingest_778_*/*~hmac=a2c74ec22eee35117e3c3f1a3eea5db22bd70680a16eed715a67d7b006a8efd1/hls-b/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582181948~acl=/hls-b/ingest_778_*/*~hmac=03f2edca7e3c63d8ef6fec5ea977f4aeae37c7c303cbc6a5dc644f9f51f324fe/hls-b/ingest_778_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png" group-title="INDONESIA",GTV Backup
-
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA",METRO TV HD
