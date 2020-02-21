@@ -228,7 +228,16 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 
 #http://139.99.68.120:8888/live/Amirrul600/naisgroup/4272.m3u8?token=QhBYV0dYRg4TAFELW1ICBVYBUVdfDFFTDgEECFICVldcAVUBVwZVBQEaSBAQEEJXVQhvWgIbCVELAwIdQ0MSB0ttWVIWCkYDAw9dBUFIEkZdCFURXAkfR0ldVBNbFFNQDwcSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsDBgMAEkgWUlcRXBcWSRAOR3l3RBURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYAE00UDANBbVNZWl4BV0VRC1wQRgoQBUccEQtWXQxNW0JuEV8FQAMQBgQMCEZJ
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 1
+https://dl.dropbox.com/s/arxp3t4okngv5p9/premier_fb1_netizen.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 2
+https://dl.dropbox.com/s/vnlw7gt92mzcog5/premier_fb2_netizen.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 3
+https://dl.dropbox.com/s/sk6saw0tiy8yqsb/premier_fb3_netizen.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 4
+https://dl.dropbox.com/s/mbn563ksfly3rix/premier_fb4_netizen.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 5
+https://dl.dropbox.com/s/ybxrue5n0ihg8df/premier_fb5_netizen.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25h6kZRx/images-2.jpg" group-title="SPORTS",SKY Sports 2 HD
 http://185.180.12.89:8080/SPORT2/tracks-v1a1/mono.m3u8?token=test
 
