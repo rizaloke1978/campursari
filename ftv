@@ -5,9 +5,11 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/rcti.png" group-title="INDONESIA",RCTI+
+http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/fi21k5b0_media_1891535.ts?hdnts=st=1582299781~exp=1582472581~acl=/d182c52b34984076be9817e526e2bb5e/*/fi21k5b0_media_1891535.ts*~hmac=eafce812e12290d37b213022c34251cd2a6a6165747735f2502ef155580f8b33
+
 #https://etslive-2-vidio-com.akamaized.net/exp=1581987549~acl=/hls-b/ingest_665_*/*~hmac=d973baf44f3b67d9a03422fc4baac703a0c5123922ab5b492d7962fb92dc81f1/hls-b/ingest_665_480p/index.m3u8
 #https://etslive-2-vidio-com.akamaized.net/exp=1582163949~acl=/hls-b/ingest_665_*/*~hmac=42f0fcf86c77ec212ec8ff7d63417f1310273c44d84635b001c6d40ebb42a40b/hls-b/ingest_665_480p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1582181949~acl=/hls-b/ingest_665_*/*~hmac=772c4e2927c0eb4a77345051b23a56b8e4d47f2dd1c36dd076568cce899420a6/hls-b/ingest_665_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582181949~acl=/hls-b/ingest_665_*/*~hmac=772c4e2927c0eb4a77345051b23a56b8e4d47f2dd1c36dd076568cce899420a6/hls-b/ingest_665_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/rcti.png" group-title="INDONESIA",RCTI Backup
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
