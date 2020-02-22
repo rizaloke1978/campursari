@@ -28,7 +28,8 @@ http://3.0.93.95:25461/LOCAL/ID/10
 http://rr2.dens.tv/s/s102/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
-https://etslive-2-vidio-com.akamaized.net/exp=1582339560~acl=/hls-b/ingest_205_*/*~hmac=80a785fbdae378c38c3f7f259a5ead95edadcb84d3dce5e40af9144389dc3755/hls-b/ingest_205_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582339560~acl=/hls-b/ingest_205_*/*~hmac=80a785fbdae378c38c3f7f259a5ead95edadcb84d3dce5e40af9144389dc3755/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582387149~acl=/hls-b/ingest_205_*/*~hmac=a4f45efb5b37f9b7b6866ff6a7e9708239d91f89ada2df68ccca19690cf25f89/hls-b/ingest_205_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
