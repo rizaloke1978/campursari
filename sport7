@@ -106,6 +106,94 @@ https://cdnjt21.useetv.com/tvod/mp4/net_3/1581681600/1581688800/chunklist.m3u8?s
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEE TV",TOD VIRL VIDEO SHOWDOWN
 https://cdnjt21.useetv.com/tvod/mp4/axn_3/1581464400/1581466200/chunklist.m3u8?stime=20200218160000&etime=20200218170000&encoded=08ffc9de0d2932a0f7c56
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV2", CH 1 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1582387277~acl=/hls-b/ingest_geo_6685_*/*~hmac=eff0ebf9434542b2f8e7cc27d4ca2524ddf7aca8e10755a3a2377964c75b0daa/hls-b/ingest_geo_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV2", CH 2 HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387278~acl=/hls-b/ingest_geo_6686_*/*~hmac=16014edc7d4314fbfa4733145084e7e5c40dab9c6c34d5b477338354c315ccdf/hls-b/ingest_geo_6686_720p/index.m3u8
 
- 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="USEETV2", CITRA DRAMA 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387279~acl=/hls-b/ingest_6401_*/*~hmac=9246d7232621248f8d1d9980c438b5193b60d32072535ffacec96d9acac867b1/hls-b/ingest_6401_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="USEETV2", CITRA DANGDUT 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387280~acl=/hls-b/ingest_6587_*/*~hmac=6f174b63b0c4e4794c250231d718d004f35955c9c56baadd88d06f8917ff479b/hls-b/ingest_6587_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4gZfH6/CITRA-MUSLIM-PPI-IP-TV.png" group-title="USEETV2", CITRA MUSLIM 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387280~acl=/hls-b/ingest_6678_*/*~hmac=a242e9d345c4d2b62816b9b971d43c49a95594bab71bbc25f96ba47306f54f48/hls-b/ingest_6678_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTFNdNh/CITRA-ENTERTAINMENT-PPI-IP-TV.png" group-title="USEETV2", CITRA ENTERTAINMENT 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387280~acl=/hls-b/ingest_6402_*/*~hmac=76b743de99eeec4bf02d710dd3be2278b3f017708043a3c06ff872a51e89de66/hls-b/ingest_6402_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vqL10nm/CITRA-BIOSKOP-PPI-IP-TV.png" group-title="USEETV2", CITRA BIOSKOP 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387281~acl=/hls-b/ingest_geo_6684_*/*~hmac=55669d3bbdd26e09a8364c9aa7fecda99dff354575d34dfbbcbdeb4873be0ea7/hls-b/ingest_geo_6684_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="USEETV2", INDOSIAR HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387283~acl=/hls-b/ingest_205_*/*~hmac=786a48df2bb264772a0bd84652acbbf110a56f2a0a9a7470691a27892e688048/hls-b/ingest_205_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="USEETV2", MNCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387283~acl=/hls-b/ingest_870_*/*~hmac=3a848ae84dd6d23c35989961f3336495f07d1df65799b4c74ba754a8730e29ad/hls-b/ingest_870_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LsCm1D/NETTV-PPI-IP-TV.png" group-title="USEETV2", NET. HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387284~acl=/hls-b/ingest_875_*/*~hmac=65e38cc5b45ccf37d1a9524c72d6fc980ffdeeef2fecb33fad756a45c91ea572/hls-b/ingest_875_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jrh64JS/SCTV-PPI-IP-TV.png" group-title="USEETV2", SCTV HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387284~acl=/hls-b/ingest_204_*/*~hmac=bd720aa4f1c667b623967b87d33c71758c5548fca4fb86bc10233818a9c7f815/hls-b/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="USEETV2", RCTI HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387285~acl=/hls-b/ingest_665_*/*~hmac=9a6de76ee5a021249c1dd6d8229539b35a04e9bfb4711348ef32b39f19a88df3/hls-b/ingest_665_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJXF7B8/TRANSTV-PPI-IP-TV.png" group-title="USEETV2", TRANSTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387285~acl=/hls-b/ingest_733_*/*~hmac=55cd40efa75c070ae4310f32a4deee3ed898ff4660d7d58eb26d0a4dda3e035d/hls-b/ingest_733_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxJ4gRL/TRANS7-PPI-IP-TV.png" group-title="USEETV2", TRANS7 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387286~acl=/hls-b/ingest_734_*/*~hmac=f24b1e23c8beed977e16820e33077ac09f8e058d48830654f62494a9836ca373/hls-b/ingest_734_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="USEETV2", GTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387286~acl=/hls-b/ingest_778_*/*~hmac=84a656ef54c4a651e1811c0cda1ea555428a013fefaadaf404b9954ae84b17df/hls-b/ingest_778_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6RwyWr/TVONE-PPI-IP-TV.png" group-title="USEETV2", TVONE 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387287~acl=/hls-p/ingest_783_*/*~hmac=96792b57d9c728ffab136659f057dac46e67b888ed3536c556fabfa667adda90/hls-p/ingest_783_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbNqz7H/METROTV-PPI-IP-TV.png" group-title="USEETV2", METROTV HD 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387288~acl=/hls-b/ingest_777_*/*~hmac=23b13ed3d1f7e19362cbb52e7d82b3e0ff70871d9cc33898b336282250349c29/hls-b/ingest_777_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fM7Ny/KOMPASTV-PPI-IP-TV.png" group-title="USEETV2", KOMPASTV https://etslive-2-vidio-com.akamaized.net/exp=1582387289~acl=/hls-b/ingest_874_*/*~hmac=b08104aad94b1e64796fff32093ba942ab852375e9c3679ec2f1c4f111b72700/hls-b/ingest_874_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YZ1q43/O-CHANNEL-PPI-IP-TV.png" group-title="USEETV2", O CHANNEL 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387290~acl=/hls-b/ingest_206_*/*~hmac=3d26b932e90348089fd2904b77b234724e974fd49ae25a1790185255e7f0f05e/hls-b/ingest_206_720p/index.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/NrdxF7p/MYTV-PPI-IP-TV.png" group-title="USEETV2", MYTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387290~acl=/hls-p/ingest_6711_*/*~hmac=302ad681a41b2062c54efaaa7bbbba5334cbd58d71b274693e85f014840a29dc/hls-p/ingest_6711_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcvFcsV/TVN-PPI-IP-TV.png" group-title="USEETV2", TVN 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387291~acl=/hls-b/ingest_geo_6362_*/*~hmac=9856246d95f892c5c9c8c6d77a690d01fe203a485e540cfc6d99b6384193e570/hls-b/ingest_geo_6362_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hL7dJ59/ZOOMOO-PPI-IP-TV.png" group-title="USEETV2", ZOOMOO 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387292~acl=/hls-b/ingest_geo_6533_*/*~hmac=89c1eab95bb40d5b7b396bb3e126395f123b7f91ee8fea38f4aab8e9870bb18e/hls-b/ingest_geo_6533_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0G7wLkz/HOREE-PPI-IP-TV.png" group-title="USEETV2", HOREE! 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387292~acl=/hls-b/ingest_geo_6397_*/*~hmac=7bd264e586cdc7077047c30b7de214c4fedaebb2452aabe5cc89039f32bc7c05/hls-b/ingest_geo_6397_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CT3YDN/DAVINCI-PPI-IP-TV.png" group-title="USEETV2", DA VINCI 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387293~acl=/hls-b/ingest_geo_6549_*/*~hmac=c3ff79d69f2375fc48022378b69e3dd9737e2b5b2cdeed096d1a5504c9d13e47/hls-b/ingest_geo_6549_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGg2y9s/ZING-PPI-IP-TV.png" group-title="USEETV2", ZING 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387293~acl=/hls-b/ingest_geo_6747_*/*~hmac=258fc62068d2d01586df813e04ea96d3e8ac88ed35482c52be232acf2377c0c6/hls-b/ingest_geo_6747_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWN9nZN/SMITHSONIA-CH-PPI-IP-TV.png" group-title="USEETV2", SMITHSONIAN 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387293~acl=/hls-b/ingest_geo_6550_*/*~hmac=22ebd25a62f1951b4a863982223edf959c9f4dd17fa6e97e2d9fcc9100f614ca/hls-b/ingest_geo_6550_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zfdcvcc/LOVE-4-K-NATURE-PPI-IP-TV.png" group-title="USEETV2", LOVE 4 NATURE 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387296~acl=/hls-b/ingest_geo_6635_*/*~hmac=e47fef7be8dff4520022a2a6c9261ff316b1e0297f0569e7905a058a8a2fe841/hls-b/ingest_geo_6635_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYf9SXY/ZEE-BIOSKOP-PPI-IP-TV.png" group-title="USEETV2", ZEE BIOSKOP 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387296~acl=/hls-b/ingest_geo_6399_*/*~hmac=570996f0a8167df0da01701f24913a564fefbb53a68bdea0e6d4796aad2612ac/hls-b/ingest_geo_6399_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6TRQbn/ALJAZEERA-PPI-IP-TV.png" group-title="USEETV2", ALJAZEERA 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387297~acl=/hls-b/ingest_geo_6410_*/*~hmac=55769930c0850808d69f656ce726f70c687b9fb805c434a232d63164700baa10/hls-b/ingest_geo_6410_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkm8RCH/DW-PPI-IP-TV.png" group-title="USEETV2", DW 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387298~acl=/hls-b/ingest_5075_*/*~hmac=ede33b573b91cde08e854d54043d3dcf0a0b399519c1583022a5dfbbf138a65d/hls-b/ingest_5075_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKjYHXs/EURONEWS-PPI-IP-TV.png" group-title="USEETV2", EURONEWS 
+https://etslive-2-vidio-com.akamaized.net/exp=1582387300~acl=/hls-b/ingest_geo_6412_*/*~hmac=f3bd925f5a37e5d509a3477c3a6a2844f84dda8341cd8bf5767905a4de658897/hls-b/ingest_geo_6412_720p/index.m3u8
+
 
