@@ -1,5 +1,6 @@
 #EXTM3U
-group-title="Indonesia",TRANS TV
+https://ip186542014.ahcdn.com/key=zV17WpDD6XQbDXd5ERi89w,s=,end=1582395157/data=pc_SG__1582275809396_/state=0Tqj/buffer=67272508:15759643,1340.0/speed=1528921/reftag=20037190/ssd1/23/8/196278348/1080p/1587073969.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS 7" tvg-logo=""group-title="Indonesia",TRANS TV
 http://cybervision.us.to:8989/live/iptvku/iptvku/204.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TRANS 7" tvg-logo="" group-title="Indonesia",TRANS 7
 http://cybervision.us.to:8989/live/iptvku/iptvku/203.ts
