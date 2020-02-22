@@ -811,7 +811,9 @@ https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/jgo.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hbo.png" group-title="Movies",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+http://streamku.live:8888/live/empire/adminempire/576.m3u8
+
+#https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 
 #https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="Movies",Thrill
