@@ -343,6 +343,24 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 5
 #http://185.63.254.79:4747/sports2020/arenasp5/chunks.m3u8?nimblesessionid=43867236&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MDAgQU0maGFzaF92YWx1ZT0xVlVBYnNHeHQwSFY2ZysyNE9KWjVnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport HD1
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport HD2
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport HD3
+https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport HD4
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport 2
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport 5
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport 6
+https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",True Sport 7
+https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="Sports",beIN Sports 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
 #http://185.63.254.79:4747/sports2020/chelseatv/chunks.m3u8?nimblesessionid=43867658&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MTAgQU0maGFzaF92YWx1ZT1JS1l5NURoZGhpK0svUWFBN0dhUHFRPT0mdmFsaWRtaW51dGVzPTI=
