@@ -246,6 +246,12 @@ http://185.180.12.89:8080/SPORT2/tracks-v1a1/mono.m3u8?token=test
 
 http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
+
+https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
+https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FdqvZT8g/eu2.jpg" group-title="SPORTS",EUROSPORT 2
+https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yYLhtvY/images-3.jpg" group-title="SPORTS",ESPN 2 HD
 
@@ -802,9 +808,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hbo.png" group-title="Movies",HBO
 http://streamku.live:8888/live/empire/adminempire/576.m3u8
 
-#https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6p4p6Cd9/THAI.png" group-title="Movies",THAI MOVIE
+https://www.doofree88.com/streaming/sd-thaifilm_480/index.m3u8
 
-#https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="Movies",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cinemax.png" group-title="Movies",Cinemax
