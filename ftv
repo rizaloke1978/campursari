@@ -63,7 +63,7 @@ http://210.210.155.35/session/4efa77e0-4cd5-11ea-9b9d-c81f66f89318/qwr9ew/s/s08/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/gtv.png" group-title="INDONESIA",GTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582336748~acl=/hls-b/ingest_778_*/*~hmac=b81db11b96dbaf9cb22a8259784c688e6cf51b4d306e43d286ea739ea0738520/hls-b/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582462509~acl=/hls-p/ingest_778_*/*~hmac=1cf10aa6cda0416b85573c0be505eb9d6e64698691c71f1753338ca082bba318/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png" group-title="INDONESIA",GTV Backup
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
