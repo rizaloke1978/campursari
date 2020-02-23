@@ -3,7 +3,8 @@
 
 ##############channel tv#############
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1582448526~acl=/hls-p/ingest_665_*/*~hmac=c9e25590c5fe0f0e6035808552a34166b8dd3a65013dfbbd29237127b318f8dd/hls-p/ingest_665_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582448526~acl=/hls-p/ingest_665_*/*~hmac=c9e25590c5fe0f0e6035808552a34166b8dd3a65013dfbbd29237127b318f8dd/hls-p/ingest_665_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582479887~acl=/hls-p/ingest_665_*/*~hmac=b692ae88ed0fd0bd2a154431205bc2600f6d8171b366b25f13247e832347f0d9/hls-p/ingest_665_720p/index.m3u8
 
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/rcti.png" group-title="INDONESIA",RCTI+
@@ -14,7 +15,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hhVMBt96/MNCTV.png" group-title="INDONESIA",MNC
-https://etslive-2-vidio-com.akamaized.net/exp=1582448755~acl=/hls-b/ingest_870_*/*~hmac=55293487c5a59973b15cc28e179d561bd07e890dc8f846978818ff7d45fd7960/hls-b/ingest_870_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582479925~acl=/hls-p/ingest_870_*/*~hmac=c9e1260c9b8d8ae50a46a1f1e860a4e64cc00cab922b2d528b8715ab93ccae3a/hls-p/ingest_870_720p/index.m3u8
 
 #https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/mnctv.png" group-title="INDONESIA",MNC TV+
@@ -33,12 +34,14 @@ http://rr2.dens.tv/s/s102/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
 #https://etslive-2-vidio-com.akamaized.net/exp=1582387149~acl=/hls-b/ingest_205_*/*~hmac=a4f45efb5b37f9b7b6866ff6a7e9708239d91f89ada2df68ccca19690cf25f89/hls-b/ingest_205_480p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1582461351~acl=/hls-p/ingest_205_*/*~hmac=5c79707e2d2fbb0c53ca759e13d0d5d9fdda389dadf0535313ca6dbff160afaa/hls-p/ingest_205_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582461351~acl=/hls-p/ingest_205_*/*~hmac=5c79707e2d2fbb0c53ca759e13d0d5d9fdda389dadf0535313ca6dbff160afaa/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582479746~acl=/hls-b/ingest_205_*/*~hmac=d88b374c043fe4fb90655a81eb95cad7ddf73e2717a51eea06e85ba584f76670/hls-b/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582461256~acl=/hls-p/ingest_204_*/*~hmac=158423a63aca3bdd57286d544f494d65ef5d49bbaa23266bbad981f3a346e98c/hls-p/ingest_204_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582461256~acl=/hls-p/ingest_204_*/*~hmac=158423a63aca3bdd57286d544f494d65ef5d49bbaa23266bbad981f3a346e98c/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582479847~acl=/hls-p/ingest_204_*/*~hmac=1deaad2757ec004fd8bb3df43b59c182043172e341b7f46103cf21bf98d33508/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
