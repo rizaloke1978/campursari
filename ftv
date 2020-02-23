@@ -997,6 +997,8 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://210.210.155.35/session/d28e34c0-2f53-11e9-8f4d-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdmM5Up.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytransfer.be/wp-content/uploads/2018/12/CartoonNetwork.png" group-title="KIDS",CARTOON NETWORK  ID
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61Y3OYa.jpg" group-title="Kids",Boruto TV
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHOB7kt.jpg" group-title="Kids",Captain Tsubasa 2019 TV
