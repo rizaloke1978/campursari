@@ -314,7 +314,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7LMkWhnM/TS1.png" group-title="SPORTS",True Sport HD1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nVvQHGcn/TS1HD.png" group-title="SPORTS",True Sport HD1
 https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD2
 https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
