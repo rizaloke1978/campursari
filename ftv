@@ -324,13 +324,13 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/13Fy1sQX/TS1-copy.png" group-title="SPORTS",True Sport HD1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/py2cGQRK/TSHD01.png" group-title="SPORTS",True Sport HD1
 https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/471L4ybK/TSHD02.png" group-title="SPORTS",True Sport HD2
 https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XB72rWQs/TSHD03.png" group-title="SPORTS",True Sport HD3
 https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/G8Rg1GYw/TSHD04.png" group-title="SPORTS",True Sport HD4
 https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport 2
 https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
