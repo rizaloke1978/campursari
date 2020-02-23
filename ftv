@@ -231,13 +231,13 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT+
 
 
 http://dragoniptv.club:8080/gxfgss/HHVVPP/6755
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT Backup
 
 
 http://dragoniptv.club:8080/gxfgss/HHVVPP/33178
