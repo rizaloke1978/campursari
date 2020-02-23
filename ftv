@@ -251,9 +251,6 @@ http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
 http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DsdHKY/La-Liga.png" group-title="SPORTS",ETV SPORTS PLUS
-
-#http://103.146.185.235:8888/live/stress/bersama/574.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PPWwDxb/DIEMA-SPORT-2.png" group-title="SPORTS",DIEMA SPORTS 2
 http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
@@ -274,11 +271,6 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ck2wZL3/arena-sport-rs-5.png" group-title="SPORTS",ARENA SPORT 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",EuroSport 1
-#http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-
-#EXTINF:-1 group-title="SPORTS",EuroSport 2
-#http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBRNCCF4/fights.png" group-title="SPORTS",Fight Sports
@@ -322,31 +314,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORT 1 USA
-#http://185.63.254.79:4747/sports2020/foxsp1usa/chunks.m3u8?nimblesessionid=43867422&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MzIgQU0maGFzaF92YWx1ZT1lbEw5ZkhwQTI5TDBuNVNvNFZ5eTVBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORT 2 USA
-#http://185.63.254.79:4747/sports2020/foxsp2usa/chunks.m3u8?nimblesessionid=43867545&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6NTEgQU0maGFzaF92YWx1ZT1LVUtKQXp3QTJwSXllcHBocEY1THZRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",SATANTA SPORT
-#http://185.63.254.79:4747/sports2020/setantasp/chunks.m3u8?nimblesessionid=43867882&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6NTQgQU0maGFzaF92YWx1ZT1ncFNqaExvYXpkWGpsTzhtbXJjeVhnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 1
-#http://185.63.254.79:4747/sports2020/arenasp1/chunks.m3u8?nimblesessionid=43861980&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6MTUgQU0maGFzaF92YWx1ZT1rQkVqRTJjQ1p6eVRYeU03SThYK1NRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 2
-#http://185.63.254.79:4747/sports2020/arenasp2/chunks.m3u8?nimblesessionid=43862084&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6MjkgQU0maGFzaF92YWx1ZT1Xb3lrVElwNHljYnBSQWVrZ095UUpRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 3
-#http://185.63.254.79:4747/sports2020/arenasp3/chunks.m3u8?nimblesessionid=43862228&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDI6NTM6NDYgQU0maGFzaF92YWx1ZT1GV3dTL2U5Uy9ndXo3SW1tS0VHTHF3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 4
-#http://185.63.254.79:4747/sports2020/arenasp4/chunks.m3u8?nimblesessionid=43867114&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MDk6NDEgQU0maGFzaF92YWx1ZT1KY0o0emhvTmpHaFBxc1VqYTM4K2FnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ARENA SPORT 5
-#http://185.63.254.79:4747/sports2020/arenasp5/chunks.m3u8?nimblesessionid=43867236&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTA6MDAgQU0maGFzaF92YWx1ZT0xVlVBYnNHeHQwSFY2ZysyNE9KWjVnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7LMkWhnM/TS1.png" group-title="SPORTS",True Sport HD1
 https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport HD2
 https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
@@ -362,8 +330,6 @@ https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
 https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",True Sport 7
 https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2Tv2P1h/TRUE.jpg" group-title="SPORTS",beIN SPORTS 1
-http://51.15.8.16:8081/arbiarb/beinSPORTS1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
 #http://185.63.254.79:4747/sports2020/chelseatv/chunks.m3u8?nimblesessionid=43867658&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MTAgQU0maGFzaF92YWx1ZT1JS1l5NURoZGhpK0svUWFBN0dhUHFRPT0mdmFsaWRtaW51dGVzPTI=
