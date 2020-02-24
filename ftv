@@ -67,7 +67,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582548756~acl=/hls-p/ingest_778_*
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA",METRO TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1582520321~acl=/hls-p/ingest_777_*/*~hmac=1aa204813f293548e60b46270b8f9625e24706ed5f131c21db3e2b9cc317c5e3/hls-p/ingest_777_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582549334~acl=/hls-p/ingest_777_*/*~hmac=9154e37ff5750c94c0cec00475bdbf8754470f26eb24145d3390194495bcaa94/hls-p/ingest_777_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA",METRO TV BACKUP
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -76,7 +76,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582520178~acl=/hls-p/ingest_874_*/*~hmac=df29f757191ce06a1a3a777c0c92ec355a5a31a5f34eec21443e65f02585eeb8/hls-p/ingest_874_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582549333~acl=/hls-p/ingest_874_*/*~hmac=a0131497c18aaa57273de11f4921127fdece51f2dbd5ebc54749ecd34a615057/hls-p/ingest_874_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE
 http://210.210.155.35/session/bdf531da-c5b2-11e9-b6a3-c81f66f89318/qwr9ew/s/s105/01.m3u8
