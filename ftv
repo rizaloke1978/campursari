@@ -3,8 +3,7 @@
 
 ##############channel tv#############
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1582548584~acl=/hls-p/ingest_665_*/*~hmac=e64b017eb87684a71dcfe708e9c9d156e956b41288cec3c73347a42af72ad2c3/hls-p/ingest_665_720p/index.m3u8
-
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/rcti.png" group-title="INDONESIA",RCTI+
