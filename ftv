@@ -844,10 +844,10 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hbo.png" group-title="Movies",HBO
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pr5jcxdN/HBO4.png" group-title="Movies",HBO
 https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mBGtV0W/moviesnowlogo.png" group-title="Movies",MOVIES NOW
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="Movies",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
