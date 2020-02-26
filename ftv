@@ -858,9 +858,9 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cinemax.png" group-title="Movies",Cinema World #2
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sonypix.png" group-title="Movies",Sony PIX
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TYgxGSLT/sony4.png" group-title="Movies",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/zbioskop.png" group-title="Movies",ZBioskop
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hbohits.png" group-title="Movies",HBO Hits
 https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=gratisan
