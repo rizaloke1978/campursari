@@ -262,6 +262,11 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
+http://streamku.live:8888/live/freeempire/adminempire/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 2
+http://streamku.live:8888/live/freeempire/adminempire/505.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkZhrZ93/images.png" group-title="SPORTS",NBCSN HD
 #http://198.147.24.66:25461//live/AiiCisrHb8/33vsWtaChH/57.m3u8?token=HhBZURFYRgkQBgRXUwsFDQsAAwVcUgMAAA8IVgYFVgZWUAUFAVZVAQcQHUMVTBFcWFxoCl1HDQ1RFBIXRFEUbAxWEwpAAl0RHhBFCAtdQQMJHRUTUAEVAkQKA1IBDEQfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVeB1cQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZXAlEAABIf
