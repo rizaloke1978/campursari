@@ -231,10 +231,10 @@ https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei
 
 ##########################3sport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLn6d8tr/MNC-SPORT1.png" group-title="SPORTS",MNC SPORT 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lh4kr38Y/MNC-SPORT2.png" group-title="SPORTS",MNC SPORT 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT+
