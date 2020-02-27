@@ -93,7 +93,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582548694~acl=/hls-p/ingest_733_*
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="INDONESIA",RTV
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",TVRI
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
@@ -101,7 +101,7 @@ https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d10Q6F6J/images-6.jpg" group-title="INDONESIA",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+#http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 
 
@@ -148,7 +148,7 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 ##########info owner##########
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFO OWNER",SEPUTAR PAREPARE
 https://r3---sn-2uuxa3vh-02bz.googlevideo.com/videoplayback?expire=1582271592&ei=CDhPXveXA7iDsfIPjdKH4Ao&ip=192.126.204.139&id=o-AKLET_2T2ozp7nlR2SvoiWOvCrpclVl9irAR0ccULocP&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=19595744&ratebypass=yes&dur=251.936&lmt=1552705624515656&fvip=3&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAKAbZxuWO-9Y4yuUwRtlrqXRb-G0WfvV06O_N7TZYiVYAiBq5_Xzg_JmDu7MpH-zTpub8l3xKTB43Se6ZK4hHPw_CQ%3D%3D&type=video%25252Fmp4%25253B%252Bcodecs%25253D%252522avc1.42001E%25252C%252Bmp4a.40.2%252522&quality=medium&title=Kota%2BPare-Pare%2BTahun%2B2019&cms_redirect=yes&mip=36.80.18.174&mm=31&mn=sn-2uuxa3vh-02bz&ms=au&mt=1582249892&mv=m&mvi=2&pl=20&lsparams=mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRgIhAK29fsLMaSK93YxLWAPHZogrf2QhYGc8yltGl29zK_seAiEAs8Six64ldSuHccnyEtCe2AsGlS2YrxhiS5pTA5JhjHA%3D
-#http://199.167.134.163:7038/;
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFO OWNER",SEPUTAR PAREPARE 2
 https://r3---sn-2uuxa3vh-02b6.googlevideo.com/videoplayback?expire=1582271663&ei=TjhPXqTnOo30owOJwbHgAw&ip=36.80.18.174&id=o-ABw2ZOpHGi3Hi_U4tZXx5B7r-F977cvJ1AOiJrsuW0AM&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-02b6%2Csn-npoeeney&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=313750&vprv=1&mime=video%2Fmp4&gir=yes&clen=128327010&otfp=1&dur=339.630&lmt=1558244658219037&mt=1582249951&fvip=3&keepalive=yes&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=ALgxI2wwRgIhANxufI9J2BJWwKQ_lzYsQaJ7L6nHjkD0qHQKy7r0wvJPAiEA4CYX0StmMD9gy-gASJsAEX9Q2Cm47hTdtN8J2m41RHk%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgPGPuYSyqD_LRwGI70Duv6AOvH5dqUdHTDZNiLgrTKacCIQDR3bi2Ju_y3Hae4obATXnMKNml8q7zp2cM5zLZZj3Kpg%3D%3D
 
@@ -276,18 +276,12 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lh4kr38Y/MNC-SPORT2.png" group-title="SPORTS",MNC SPORT 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT+
-
-
 http://dragoniptv.club:8080/gxfgss/HHVVPP/6755
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT Backup
-
-
 http://dragoniptv.club:8080/gxfgss/HHVVPP/33178
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
@@ -306,25 +300,24 @@ https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #http://streamku.live:8888/live/freeempire/adminempire/505.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkZhrZ93/images.png" group-title="SPORTS",NBCSN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN HD
 http://dragoniptv.club:8080/gxfgss/HHVVPP/7685
 
-#http://139.99.68.120:8888/live/Amirrul600/naisgroup/4272.m3u8?token=QhBYV0dYRg4TAFELW1ICBVYBUVdfDFFTDgEECFICVldcAVUBVwZVBQEaSBAQEEJXVQhvWgIbCVELAwIdQ0MSB0ttWVIWCkYDAw9dBUFIEkZdCFURXAkfR0ldVBNbFFNQDwcSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsDBgMAEkgWUlcRXBcWSRAOR3l3RBURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYAE00UDANBbVNZWl4BV0VRC1wQRgoQBUccEQtWXQxNW0JuEV8FQAMQBgQMCEZJ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS",PREMIER FOOTBALL 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
 https://dl.dropbox.com/s/arxp3t4okngv5p9/premier_fb1_netizen.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS",PREMIER FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 2
 https://dl.dropbox.com/s/vnlw7gt92mzcog5/premier_fb2_netizen.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS",PREMIER FOOTBALL 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 3
 https://dl.dropbox.com/s/sk6saw0tiy8yqsb/premier_fb3_netizen.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS",PREMIER FOOTBALL 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 4
 https://dl.dropbox.com/s/mbn563ksfly3rix/premier_fb4_netizen.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS",PREMIER FOOTBALL 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 5
 https://dl.dropbox.com/s/ybxrue5n0ihg8df/premier_fb5_netizen.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY Sports 2 HD
-http://185.180.12.89:8080/SPORT2/tracks-v1a1/mono.m3u8?token=test
+#http://185.180.12.89:8080/SPORT2/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY Sports 1 HD
-http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
+#http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
 https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
@@ -333,7 +326,7 @@ https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
 https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yYLhtvY/images-3.jpg" group-title="SPORTS",ESPN 2 HD
-http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
+#http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PPWwDxb/DIEMA-SPORT-2.png" group-title="SPORTS",DIEMA SPORTS 2
@@ -342,19 +335,19 @@ http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsWZLRd/arena-sport-rs-2.png" group-title="SPORTS",ARENA SPORT 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1CzDHV/arena-sport-hr-3.png" group-title="SPORTS",ARENA SPORT 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1zWpdPs/arena-sport-hr-4.png" group-title="SPORTS",ARENA SPORT 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ck2wZL3/arena-sport-rs-5.png" group-title="SPORTS",ARENA SPORT 5
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBRNCCF4/fights.png" group-title="SPORTS",Fight Sports
