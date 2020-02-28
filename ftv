@@ -204,20 +204,21 @@ https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
 http://mantul.biz.id:8888/live/Liem26/Liem/629.ts
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 1+
 http://mantul.biz.id:8888/live/Liem26/Liem/797.ts
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2
 http://mantul.biz.id:8888/live/Liem26/Liem/630.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2+
 http://mantul.biz.id:8888/live/Liem26/Liem/798.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 1
 http://mantul.biz.id:8888/live/Liem26/Liem/614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTSt",ASSP 2
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 2
 http://mantul.biz.id:8888/live/Liem26/Liem/615.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 3
 http://mantul.biz.id:8888/live/Liem26/Liem/616.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 4
 http://mantul.biz.id:8888/live/Liem26/Liem/617.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS 2
