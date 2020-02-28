@@ -24,8 +24,6 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/antv.png" group-title="INDONESIA",ANTV+
-#https://etslive-2-vidio-com.akamaized.net/exp=1581987551~acl=/hls-p/ingest_782_*/*~hmac=2952b097920a85271a5e56ad1a35a2dcfe13ca3f712e29cd40c77ab605195d2b/hls-p/ingest_782_480p/index.m3u8
-#https://etslive-2-vidio-com.akamaized.net/exp=1582820933~acl=/hls-p/ingest_782_*/*~hmac=cd1c9951a18848352cc26e5a61bc53fe33c0336a95e2ac42d5fdfd5dc30eb6fe/hls-p/ingest_782_720p/index.m3u8
 http://mantul.biz.id:8888/live/Liem26/Liem/26.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV Backup
 http://rr2.dens.tv/s/s102/index2.m3u8
@@ -49,12 +47,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582548722~acl=/hls-p/ingest_734_*
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 BACKUP
-http://210.210.155.35/session/2630537c-4954-11ea-a8e4-a60a8c662984/qwr9ew/s/s101/01.m3u8
+#http://210.210.155.35/session/2630537c-4954-11ea-a8e4-a60a8c662984/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",NET TV backup
-http://210.210.155.35/session/4efa77e0-4cd5-11ea-9b9d-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#http://210.210.155.35/session/4efa77e0-4cd5-11ea-9b9d-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
@@ -177,58 +175,7 @@ https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei
 #################tester
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",HITS MOVIE
-#http://103.146.185.235:8888/live/stress/bersama/741.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",HITS
-#http://103.146.185.235:8888/live/stress/bersama/742.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",BLUE N EXTREME
-#http://103.146.185.235:8888/live/stress/bersama/513.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",EFLIX
-#http://103.146.185.235:8888/live/stress/bersama/731.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",SINEMA INDO
-#http://103.146.185.235:8888/live/stress/bersama/625.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",BIOSKOP INDO
-#http://103.146.185.235:8888/live/stress/bersama/243.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX MOVIES
-#http://103.146.185.235:8888/live/stress/bersama/61.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX LIFE
-#http://103.146.185.235:8888/live/stress/bersama/45.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX FAMILY 
-#http://103.146.185.235:8888/live/stress/bersama/31.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX CRIME 
-#http://103.146.185.235:8888/live/stress/bersama/49.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX ACTION 
-#http://103.146.185.235:8888/live/stress/bersama/33.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FOX
-#http://103.146.185.235:8888/live/stress/bersama/2.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FX
-#http://103.146.185.235:8888/live/stress/bersama/48.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",HBO
-#http://103.146.185.235:8888/live/stress/bersama/117.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",HBO HITS 
-#http://103.146.185.235:8888/live/stress/bersama/124.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",HBO FAM
-#http://103.146.185.235:8888/live/stress/bersama/125.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",CINEMAX
-#http://103.146.185.235:8888/live/stress/bersama/192.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",RED BY HBO
-#http://103.146.185.235:8888/live/stress/bersama/378.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",CINEMA WORLD 
-#http://103.146.185.235:8888/live/stress/bersama/725.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",DW TV
-#http://103.146.185.235:8888/live/stress/bersama/36.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",AXN
-#http://103.146.185.235:8888/live/stress/bersama/51.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",CELESTIAL MOVIES
-#http://103.146.185.235:8888/live/stress/bersama/108.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",FIRST
-#http://103.146.185.235:8888/live/stress/bersama/81.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",KIX
-#http://103.146.185.235:8888/live/stress/bersama/91.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",STAR CHINESE
-#http://103.146.185.235:8888/live/stress/bersama/32.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="PREMIUM TEST",WRNER TV
-#http://103.146.185.235:8888/live/stress/bersama/608.ts
+
 
 ##########################3sport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLn6d8tr/MNC-SPORT1.png" group-title="SPORTS",MNC SPORT 1
@@ -256,18 +203,18 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_1/playlist.m3u8
+#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 2
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_2/playlist.m3u8
+#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
+#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS 2
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports2/playlist.m3u8
+#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx5ktLLJ/rmc4.png" group-title="SPORTS", RMC HD
 http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN HD
-http://ok2.se:8000/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/170
+#http://ok2.se:8000/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/170
 
 
 #Http://dragoniptv.club:8080/gxfgss/HHVVPP/7685
