@@ -404,10 +404,6 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fightsports.png" group-title="ZAL-SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mncsports1.png" group-title="ZAL-SPORTS",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mncsports2.png" group-title="ZAL-SPORTS",MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxsport.png" group-title="ZAL-SPORTS",FOX Sports
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxsports2.png" group-title="ZAL-SPORTS",FOX Sports 2
@@ -422,8 +418,6 @@ https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dsport.png" group-title="ZAL-SPORTS",DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sport1.png" group-title="ZAL-SPORTS",Sport 1
-http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/redbulltv.png" group-title="ZAL-SPORTS",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/racing.png" group-title="ZAL-SPORTS",Racing.Com
@@ -432,30 +426,9 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://ott.artmott.com/eurosport1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/eurosp2.png" group-title="ZAL-SPORTS",Eurosport 2
 http://ott.artmott.com/eurosport2/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dubairacing1.png" group-title="ZAL-SPORTS",Dubai Racing 1
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dubairacing2.png" group-title="ZAL-SPORTS",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cockfight.png" group-title="ZAL-SPORTS",Sabung Ayam
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp1.png" group-title="ZAL-SPORTS",Arena Sport 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp2.png" group-title="ZAL-SPORTS",Arena Sport 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp3.png" group-title="ZAL-SPORTS",Arena Sport 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp4.png" group-title="ZAL-SPORTS",Arena Sport 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp5.png" group-title="ZAL-SPORTS",Arena Sport 5
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/useesports.png" group-title="ZAL-SPORTS",Usee Sport
-https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/useesports2.png" group-title="ZAL-SPORTS",Usee Sport 2
-https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/championtv1.png" group-title="ZAL-SPORTS",Champions TV 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/championtv2.png" group-title="ZAL-SPORTS",Champions TV 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp1.png" group-title="ZAL-SPORTS",Arena Sport 1
 https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/arenasp2.png" group-title="ZAL-SPORTS",Arena Sport 2
@@ -548,21 +521,6 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://store-images.s-microsoft.com/image/apps.20120.13510798887418728.6df1374e-3c5e-4b19-ab7e-d79180fe49d0.0213f377-db14-4eba-bf99-c8e64ce170c6?mode=scale&q=90&h=1080&w=1920" group-title="Astro - Sport", BT Sport 2 FHD
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="Astro - Sport", Bein Sport 1
-http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="Astro - Sport", Bein Sport 2
-http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="Astro - Sport", Bein Sport 4
-http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="Astro - Sport", Bein Sport 5
-http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" group-title="Astro - Sport", Bein Sport 6
-http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWCHhqmn4ViGFE22L91djcOetubx-tXvkmjbfiDcTrnVORHUN&s" group-title="Astro - Sport", Bein Sport (1) 4K
 http://54k.top:8000/live/android/hytmmnb/4.ts
