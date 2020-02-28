@@ -35,7 +35,8 @@ http://mantul.biz.id:8888/live/Liem26/Liem/645.ts
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/indosiar/playlist.m3u8
 #http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582548747~acl=/hls-p/ingest_204_*/*~hmac=176c4924d8f493fdfd69c42e45dc11a527fdb4d788143b5e62ad533d239f68a2/hls-p/ingest_204_720p/index.m3u8
+http://mantul.biz.id:8888/live/Liem26/Liem/9.ts
+#https://etslive-2-vidio-com.akamaized.net/exp=1582548747~acl=/hls-p/ingest_204_*/*~hmac=176c4924d8f493fdfd69c42e45dc11a527fdb4d788143b5e62ad533d239f68a2/hls-p/ingest_204_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
