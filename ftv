@@ -205,11 +205,11 @@ https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
 http://mantul.biz.id:8888/live/Liem26/Liem/629.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 1+
-http://mantul.biz.id:8888/live/Liem26/Liem/797.ts
+#http://mantul.biz.id:8888/live/Liem26/Liem/797.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2
 http://mantul.biz.id:8888/live/Liem26/Liem/630.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2+
-http://mantul.biz.id:8888/live/Liem26/Liem/798.ts
+#http://mantul.biz.id:8888/live/Liem26/Liem/798.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 2
