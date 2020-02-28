@@ -190,7 +190,7 @@ http://mantul.biz.id:8888/live/Liem26/Liem/88.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT Backup
-#http://dragoniptv.club:8080/gxfgss/HHVVPP/33178
+
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
@@ -202,23 +202,31 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
-#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 2
-#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/champion_tv_2/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
+http://mantul.biz.id:8888/live/Liem26/Liem/629.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 2
+http://mantul.biz.id:8888/live/Liem26/Liem/797.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1+
+http://mantul.biz.id:8888/live/Liem26/Liem/630.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2+
+http://mantul.biz.id:8888/live/Liem26/Liem/798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 1
+http://mantul.biz.id:8888/live/Liem26/Liem/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTSt",ASSP 2
+http://mantul.biz.id:8888/live/Liem26/Liem/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 3
+http://mantul.biz.id:8888/live/Liem26/Liem/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASSP 4
+http://mantul.biz.id:8888/live/Liem26/Liem/617.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS 2
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx5ktLLJ/rmc4.png" group-title="SPORTS", RMC HD
 http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN HD
 #http://ok2.se:8000/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/170
-
-
-#Http://dragoniptv.club:8080/gxfgss/HHVVPP/7685
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
