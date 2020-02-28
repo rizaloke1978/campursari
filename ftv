@@ -25,14 +25,14 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/antv.png" group-title="INDONESIA",ANTV+
 #https://etslive-2-vidio-com.akamaized.net/exp=1581987551~acl=/hls-p/ingest_782_*/*~hmac=2952b097920a85271a5e56ad1a35a2dcfe13ca3f712e29cd40c77ab605195d2b/hls-p/ingest_782_480p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1582820933~acl=/hls-p/ingest_782_*/*~hmac=cd1c9951a18848352cc26e5a61bc53fe33c0336a95e2ac42d5fdfd5dc30eb6fe/hls-p/ingest_782_720p/index.m3u8
-
+#https://etslive-2-vidio-com.akamaized.net/exp=1582820933~acl=/hls-p/ingest_782_*/*~hmac=cd1c9951a18848352cc26e5a61bc53fe33c0336a95e2ac42d5fdfd5dc30eb6fe/hls-p/ingest_782_720p/index.m3u8
+http://mantul.biz.id:8888/live/Liem26/Liem/26.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV Backup
 http://rr2.dens.tv/s/s102/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
-https://etslive-2-vidio-com.akamaized.net/exp=1582548801~acl=/hls-p/ingest_205_*/*~hmac=c85ad4b676c4d233c3ab2cfa3a1062c33335ae09cc68215a3350a6e3fa1b7fe5/hls-p/ingest_205_720p/index.m3u8
-
+#https://etslive-2-vidio-com.akamaized.net/exp=1582548801~acl=/hls-p/ingest_205_*/*~hmac=c85ad4b676c4d233c3ab2cfa3a1062c33335ae09cc68215a3350a6e3fa1b7fe5/hls-p/ingest_205_720p/index.m3u8
+http://mantul.biz.id:8888/live/Liem26/Liem/645.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
