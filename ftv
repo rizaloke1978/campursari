@@ -822,10 +822,11 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="Movies",Star Chinese Movies Legend
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="Movies",TVN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+http://mantul.biz.id:8888/live/Liem26/Liem/813.ts
+#https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png" group-title="Movies",TVN MOVIES
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=11-mp4a_66000_eng=2.m3u8
-
+#https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=11-mp4a_66000_eng=2.m3u8
+http://mantul.biz.id:8888/live/Liem26/Liem/416.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fox.png" group-title="Entertainment",FOX HD
 
 
