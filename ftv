@@ -255,7 +255,7 @@ http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 #http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PPWwDxb/DIEMA-SPORT-2.png" group-title="SPORTS",DIEMA SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxCG4HYY/diema4.png" group-title="SPORTS",DIEMA SPORTS 2
 http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
