@@ -103,7 +103,7 @@ https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA",BERITA SATU
-https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R3MxcYvV/ITV.png" group-title="INDONESIA",INEWS
@@ -128,7 +128,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SK16HMBj/VISION.png" group-title="INDONESIA",VISION PRIME
-https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="INDONESIA",USEE PHOTO
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
@@ -246,10 +246,10 @@ http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
-https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
+#https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FdqvZT8g/eu2.jpg" group-title="SPORTS",EUROSPORT 2
-https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
+#https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yYLhtvY/images-3.jpg" group-title="SPORTS",ESPN 2 HD
 #http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
@@ -259,7 +259,7 @@ https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
-http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsWZLRd/arena-sport-rs-2.png" group-title="SPORTS",ARENA SPORT 2
 #http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
