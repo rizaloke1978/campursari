@@ -870,33 +870,33 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 
 ####################news
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/idx.png" group-title="News",IDX
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htHJP2CR/idx4.png" group-title="News",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/dwtv.png" group-title="News",DW TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4N27jfVd/dw4y.png" group-title="News",DW TV
 https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cnnin.png" group-title="News",CNN Indo
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mncnew.png" group-title="News",MNC News
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsk8ScJR/mnc_news4.png" group-title="News",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cnbcind.png" group-title="News",CNBC Indo
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kMctFF5W/cnbc4.png" group-title="News",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cnbc.png" group-title="News",CNBC Asia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0BJvFNx/cnbcasia4.png" group-title="News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/bloomberg.png" group-title="News",Bloomberg
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLfn3Zh7/blom4.png" group-title="News",Bloomberg
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/euronews.png" group-title="News",EuroNews
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP2TgbWK/eu4.png" group-title="News",EuroNews
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxnews.png" group-title="News",FOX News
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htwmQDtw/foxnews4.png" group-title="News",FOX News
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/skynews.png" group-title="News",SKY News
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S3v5brh/skynews4.png" group-title="News",SKY News
 https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/france24.png" group-title="News",France 24
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vTHTSkmf/franc244.png" group-title="News",France 24
 https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/bbcworld.png" group-title="News",BBC World
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j56n1y40/bbc4.png" group-title="News",BBC World
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/trtworld.png" group-title="News",TRT World
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tgxxhK1g/trt4y.png" group-title="News",TRT World
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/rt.png" group-title="News",RT English
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLQ058Xf/rt4y.png" group-title="News",RT English
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/abc.png" group-title="News",ABC Australia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
