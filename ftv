@@ -774,7 +774,8 @@ http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 http://streamku.live:8888/live/masmuto/masmuto20/847.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Movies",HBO Hits
 #https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-https://doofree88.com/streaming/sd-fox_720/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/849.ts
+#https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Movies",HBO Signature
 #https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
@@ -784,8 +785,9 @@ https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
+http://streamku.live:8888/live/masmuto/masmuto20/595.ts
 #https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-https://doofree88.com/streaming/sd-thrill_480/index.m3u8
+#https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
 https://doofree88.com/streaming/sd-filmasia_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TYgxGSLT/sony4.png" group-title="Movies",Cinema World
