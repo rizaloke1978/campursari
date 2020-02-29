@@ -207,15 +207,16 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
-
+http://streamku.live:8888/live/masmuto/masmuto20/504.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1+
-https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6685_*/*~hmac=6f74b184dd74d55b07ff82e7e05b38e657db273a10cfc84af0be531d96d868a2/hls-b/ingest_geo_6685_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6685_*/*~hmac=6f74b184dd74d55b07ff82e7e05b38e657db273a10cfc84af0be531d96d868a2/hls-b/ingest_geo_6685_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
+http://streamku.live:8888/live/masmuto/masmuto20/505.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2+
-https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6686_*/*~hmac=441b4aae2ba36bbbeb20284fbf202a9ecf85856c2193697445fc5609339bb521/hls-b/ingest_geo_6686_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6686_*/*~hmac=441b4aae2ba36bbbeb20284fbf202a9ecf85856c2193697445fc5609339bb521/hls-b/ingest_geo_6686_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBC SPORT
 
@@ -765,7 +766,8 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
 #####Astro
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8kLP4jpp/FX4.png" group-title="Movies",FX
-https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/580.ts
+#https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
@@ -778,8 +780,8 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
 #http://streamku.live:8888/live/masmuto/masmuto20/849.ts
 #https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Movies",HBO Signature
-#https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/850.ts
+#https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Movies",HBO Family
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
 #https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
@@ -821,7 +823,8 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Action Movie
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png" group-title="Movies",FOX Family Movies HD
-https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/584.ts
+#https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="Movies",Citra Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1582970342~acl=/hls-b/ingest_geo_6684_*/*~hmac=bab7761ed0ebd2eae16d6bedbbac936af5d2b9e0f23c14c52c8ca45e8d33e404/hls-b/ingest_geo_6684_480p/index.m3u8
 
@@ -857,7 +860,7 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life HD
 #https://doofree88.com/streaming/hd-foxlife_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life
-
+http://streamku.live:8888/live/masmuto/masmuto20/583.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9F29LbR1/useetvp4.png" group-title="Entertainment",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8YZHNTZ/vision4.png" group-title="Entertainment",Vision Prime
