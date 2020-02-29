@@ -24,7 +24,7 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/antv.png" group-title="INDONESIA",ANTV+
-26.ts
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV Backup
 http://rr2.dens.tv/s/s102/index2.m3u8
 
@@ -770,23 +770,24 @@ https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO ext
-https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO
 http://streamku.live:8888/live/masmuto/masmuto20/847.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Movies",HBO Hits
-#https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
 #http://streamku.live:8888/live/masmuto/masmuto20/849.ts
-https://doofree88.com/streaming/sd-fox_720/index.m3u8
+#https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Movies",HBO Signature
 #https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Movies",HBO Family
-#https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
-https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
+#https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
-http://streamku.live:8888/live/masmuto/masmuto20/595.ts
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/22
+#http://streamku.live:8888/live/masmuto/masmuto20/595.ts
 #https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
@@ -802,7 +803,8 @@ http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/warnertv.png" group-title="Movies",Warner TV
 #https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="Movies",Warner TV HD
-https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
+#https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y6hDzPhG/hits4.png" group-title="Movies",HITS Movies
 https://doofree88.com/streaming/sd-moviehits_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJJ4Cnh/my4.png" group-title="Movies",MY CINEMA
@@ -810,10 +812,14 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png" group-title="Movies",FOX Movies Premium HD
-https://doofree88.com/streaming/hd-foxpremium_720/index.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
+#https://doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Crime HD
-https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
+#https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Action Movie
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png" group-title="Movies",FOX Family Movies HD
 https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="Movies",Citra Bioskop
@@ -833,10 +839,10 @@ https://doofree88.com/streaming/sd-celestial_480/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1582970342~acl=/hls-b/ingest_geo_6362_*/*~hmac=8706b064b4374497c634267037072ea51c9afd5d4dcd648b3416cd15401b4ae7/hls-b/ingest_geo_6362_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png" group-title="Movies",TVN MOVIES
-#https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=11-mp4a_66000_eng=2.m3u8
-
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png" group-title="Entertainment",FOX HD
-https://doofree88.com/streaming/sd-fox_720/index.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
+#https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
@@ -964,8 +970,8 @@ http://210.210.155.35/session/d28e34c0-2f53-11e9-8f4d-b82a72d63267/dr9445/h/h02/
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytransfer.be/wp-content/uploads/2018/12/CartoonNetwork.png" group-title="Kids",CARTOON NETWORK  ID
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/cartoon_network/playlist.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/81
 
-224.ts
 #https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61Y3OYa.jpg" group-title="Kids",Boruto TV
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
@@ -1095,7 +1101,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/discturbo.png" group-title="Knowledge",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/discch.png" group-title="Knowledge",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/67
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ci.png" group-title="Knowledge",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 
