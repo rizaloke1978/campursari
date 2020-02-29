@@ -192,8 +192,9 @@ https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="SPORTS",liga SHOPEE
-https://etslive-2-vidio-com.akamaized.net/exp=1582992922~acl=/hls-b/ingest_102_*/*~hmac=e4c41c70fd22c3465f43e1be60069659945fdd3de9e913f6bfd6a571d70bee44/hls-b/ingest_102_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582992922~acl=/hls-b/ingest_102_*/*~hmac=e4c41c70fd22c3465f43e1be60069659945fdd3de9e913f6bfd6a571d70bee44/hls-b/ingest_102_480p/index.m3u8
 
+https://etslive-2-vidio-com.akamaized.net/exp=1583002742~acl=/hls-b/ingest_107_*/*~hmac=43a67b3ec97273e3fb11f23ba80029341128d07b06d888b9ceb2abce5a15a11e/hls-b/ingest_107_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
