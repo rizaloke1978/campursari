@@ -186,11 +186,11 @@ https://r5---sn-2uuxa3vh-02bl.googlevideo.com/videoplayback?expire=1581860182&ei
 #https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT+
 http://mantul.biz.id:8888/live/Liem26/Liem/88.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ThZ3jJ/TVRIS.png" group-title="SPORTS",TVRI SPORT Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT Backup
 
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
@@ -203,13 +203,13 @@ https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
 http://mantul.biz.id:8888/live/Liem26/Liem/629.ts
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champion TV 1+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1+
 #http://mantul.biz.id:8888/live/Liem26/Liem/797.ts
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
 http://mantul.biz.id:8888/live/Liem26/Liem/630.ts
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champion TV 2+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2+
 #http://mantul.biz.id:8888/live/Liem26/Liem/798.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
