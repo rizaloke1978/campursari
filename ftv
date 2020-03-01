@@ -772,7 +772,7 @@ http://streamku.live:8888/live/masmuto/masmuto20/580.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO ext
-http://streamku.live:8888/live/masmuto/masmuto20/847.ts
+#http://streamku.live:8888/live/masmuto/masmuto20/847.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Movies",HBO Hits
@@ -780,8 +780,8 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
 #http://streamku.live:8888/live/masmuto/masmuto20/849.ts
 #https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Movies",HBO Signature
-http://streamku.live:8888/live/masmuto/masmuto20/850.ts
-#https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
+#http://streamku.live:8888/live/masmuto/masmuto20/850.ts
+https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Movies",HBO Family
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
 #https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
@@ -789,7 +789,6 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/22
-#http://streamku.live:8888/live/masmuto/masmuto20/595.ts
 #https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
@@ -823,10 +822,10 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Action Movie
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png" group-title="Movies",FOX Family Movies HD
-http://streamku.live:8888/live/masmuto/masmuto20/584.ts
-#https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
+#http://streamku.live:8888/live/masmuto/masmuto20/584.ts
+https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="Movies",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1582970342~acl=/hls-b/ingest_geo_6684_*/*~hmac=bab7761ed0ebd2eae16d6bedbbac936af5d2b9e0f23c14c52c8ca45e8d33e404/hls-b/ingest_geo_6684_480p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1582970342~acl=/hls-b/ingest_geo_6684_*/*~hmac=bab7761ed0ebd2eae16d6bedbbac936af5d2b9e0f23c14c52c8ca45e8d33e404/hls-b/ingest_geo_6684_480p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FF0LHmvD/celes4.png" group-title="Movies",Celestial Movies
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
@@ -860,7 +859,7 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life HD
 #https://doofree88.com/streaming/hd-foxlife_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life
-http://streamku.live:8888/live/masmuto/masmuto20/583.ts
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9F29LbR1/useetvp4.png" group-title="Entertainment",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8YZHNTZ/vision4.png" group-title="Entertainment",Vision Prime
