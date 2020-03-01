@@ -49,8 +49,7 @@ https://m.vidio.com/live/6482-daai-tv
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="UseeTV",FOX SPORT1
-#https://cdnbdsa1.useetv.com/joss/17/foxsport1/chunklist_w938888101_b1344100_sleng.m3u8?enc=PDBUTDp4rfRZtlZfNoMYcg&exp=1583045245
-https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w938888101_b1344100_sleng.m3u8?enc=0skSjC9VQYxEWXTJ8D3fhQ
+https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w938888101_b1344100_sleng.m3u8?enc=0skSjC9VQYxEWXTJ8D3fhQ&exp=1583056104
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="UseeTV",FOX SPORT2
 https://edgejt6.useetv.com/joss/17/foxsport2/chunklist_w646075132_b1344100_sleng.m3u8?enc=zboibTxqgFDtRfzXCfsskg&exp=1583048668
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="UseeTV",FOX SPORT3
