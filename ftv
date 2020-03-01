@@ -881,7 +881,7 @@ http://45.126.83.51/uq2663/h/h37/01.m3u8
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264255~exp=9007200825005246~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=b2585dab528d7789b7efa413288c124d160ad613913b216bb93c0ca6cdd5f0ea
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life HD
 #https://doofree88.com/streaming/hd-foxlife_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SNgSHk1j/FOXLIFE.png" group-title="Entertainment",FOX Life
 http://streamku.live:8888/live/masmuto/masmuto20/583.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9F29LbR1/useetvp4.png" group-title="Entertainment",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
