@@ -923,7 +923,10 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 ####################news
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htHJP2CR/idx4.png" group-title="News",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28764.ts?token=HhVYAkpZQF8XAwFcBQQBAVEABgBRXAACAFQAVQVTBABSUwlRWABVVQwTThtFQ0pVUlk6X1QaWVNdBQ5XG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUwZQUxsSE1BVQF8XAFYJAw4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkEFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwAHDQURSQ==
+
+
+#https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4N27jfVd/dw4y.png" group-title="News",DW TV
 https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
@@ -958,7 +961,8 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncJgRpdD/cnninter4.png" group-title="News",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9FYSsKSN/cna4.png" group-title="News",Channel News Asia
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
+
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28749.ts?token=HhVYAkpZQF8XAgZfBQMAAwsBUlUIAFJXUlYJBgVcBwRQAFFVXQFXXQITThtFQ0pVUlk6X1QaWVNdBQxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUwZSXBsSE1BVQF8XAFEIBA8aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAFFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcECQELFhg=
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/makkahtv.png" group-title="Religious",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
