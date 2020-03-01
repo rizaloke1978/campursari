@@ -912,13 +912,13 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLQ058Xf/rt4y.png" group-title="News",RT English
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/abc.png" group-title="News",ABC Australia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2M72RGV/abc-a4.png" group-title="News",ABC Australia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/aljazeera.png" group-title="News",Aljazeera English
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvBYrQHB/al4.png" group-title="News",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cnninter.png" group-title="News",CNN International
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncJgRpdD/cnninter4.png" group-title="News",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cna.png" group-title="News",Channel News Asia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9FYSsKSN/cna4.png" group-title="News",Channel News Asia
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/makkahtv.png" group-title="Religious",Makkah TV
