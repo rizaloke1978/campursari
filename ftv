@@ -861,7 +861,10 @@ https://doofree88.com/streaming/sd-celestial_480/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1582970342~acl=/hls-b/ingest_geo_6362_*/*~hmac=8706b064b4374497c634267037072ea51c9afd5d4dcd648b3416cd15401b4ae7/hls-b/ingest_geo_6362_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png" group-title="Movies",TVN MOVIES
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
+
+http://streamku.live:8888/live/masmuto/masmuto20/539.ts
+
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png" group-title="Entertainment",FOX HD
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
 #https://doofree88.com/streaming/sd-fox_720/index.m3u8
