@@ -901,9 +901,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1VDRLSr/mncc4.png" group-title="Entertainment",MNC Channel
 #https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydSRbryp/mncinfo4.pngg" group-title="Entertainment",Infotainment
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28763.ts?token=HhVYAkpZQF8XCVYBDlIOCQEDVAFRWQcCAQEOAlNdAAAGAAEBCgIEUwYTThtFQ0pVUlk6X1QaWVNdBQ5QG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUAVXVRsSE1BVQF8XA1IBAQcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgALFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQACQEEFhg=
+
 #https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1MbMqkd/mnce4.png" group-title="Entertainment",Entertainment
+
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28756.ts?token=HhVYAkpZQF8XAlddAVEBCFVVV1AGDQcFA1YKV1JRUgVRAAFbXwdVUQwTThtFQ0pVUlk6X1QaWVNdBQ1VG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUAJTVhsSE1BVQF8XA1QAAwMaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEDFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQBAQQEFhg=
+
+
 #https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #https://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S8k0cQQ/blu4.png" group-title="Entertainment",Blue Ant Extreme
