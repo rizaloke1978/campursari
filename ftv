@@ -343,7 +343,11 @@ https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cyLGLLR/ts7.png" group-title="SPORTS",True Sport 7
 https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
+EXTINF:-1 tvg-logo="" tvg-logo="https://i.postimg.cc/cLn6d8tr/MNC_SPORT1.png" group-title="SPORTS",MNC SPORT
+https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
+
+
+EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
 #http://185.63.254.79:4747/sports2020/chelseatv/chunks.m3u8?nimblesessionid=43867658&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MTAgQU0maGFzaF92YWx1ZT1JS1l5NURoZGhpK0svUWFBN0dhUHFRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",LIVERPOL TV
@@ -891,7 +895,8 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsk8ScJR/mnc_news4.png" group-title="News",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
+https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
+#https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kMctFF5W/cnbc4.png" group-title="News",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0BJvFNx/cnbcasia4.png" group-title="News",CNBC Asia
