@@ -3,8 +3,7 @@
 https://www.youtube.com/watch?v=IzS7ga4twH4
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Youtube Vidio",in justice 4K
 https://www.youtube.com/watch?v=e5XyRNxl21c
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Me TUBE",MNC Sport
-https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Vidio",Sctv
 https://m.vidio.com/live/204-sctv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Vidio", Indosiar
@@ -48,10 +47,19 @@ https://m.vidio.com/live/6711-mytv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Vidio",Daaitv
 https://m.vidio.com/live/6482-daai-tv
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",FOX SPORT1
-https://WWW.useetv.com/joss/17/foxsport1/chunklist_w938888101_b1344100_sleng.m3u8?enc=PDBUTDp4rfRZtlZfNoMYcg&exp=1583045245
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",FOX SPORT1 TESTER
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="UseeTV",FOX SPORT1
 https://cdnbdsa1.useetv.com/joss/17/foxsport1/chunklist_w938888101_b1344100_sleng.m3u8?enc=PDBUTDp4rfRZtlZfNoMYcg&exp=1583045245
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="UseeTV",FOX SPORT2
+https://edgejt6.useetv.com/joss/17/foxsport2/chunklist_w646075132_b1344100_sleng.m3u8?enc=zboibTxqgFDtRfzXCfsskg&exp=1583048668
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="UseeTV",FOX SPORT3
+https://cdnmdc2.useetv.com/joss/17/foxsport3/chunklist_w192212666_b1344100_sleng.m3u8?enc=gmWl1VWGLV4yVfzEzEGI_g&exp=1583048678
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
+https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w989097186_b1344100_sleng.m3u8?enc=fFJoWr-8gRLxjtZ4_vCzew&exp=1583048534
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
+https://cdnmdc1.useetv.com/joss/194/champion2/chunklist_w97830848_b1344100_sleng.m3u8?enc=kw-1GpEeJI0DxtiabnJVhw&exp=1583048544
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE
+https://cdnbal1.useetv.com/joss/14/ligasatu/chunklist_w1916433230_b944100_sleng.m3u8?enc=vMNgya4QQDwIq3IGs_rSQA&exp=1583048536
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",Useeinfo
 https://www.useetv.com/livetv/useeinfo
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",Useephoto
