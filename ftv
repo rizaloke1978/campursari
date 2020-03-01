@@ -202,10 +202,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1583078377~acl=/hls-p/ingest_6589_
 https://etslive-2-vidio-com.akamaized.net/exp=1583079907~acl=/hls-b/ingest_6588_*/*~hmac=71e210f1883c6670ef347fb20728af7a8e99734c6032334266bae4eacb4ad8f9/hls-b/ingest_6588_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
+http://streamku.live:8888/live/masmuto/masmuto20/515.ts
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2 ID
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
-
+http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
