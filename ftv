@@ -766,7 +766,7 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
 #####Astro
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8kLP4jpp/FX4.png" group-title="Movies",FX
-http://streamku.live:8888/live/masmuto/masmuto20/580.ts
+http://iptv.lancar.tech:25461/Coba02/Abcd1234/59
 #https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
@@ -788,7 +788,8 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/22
+http://iptv.lancar.tech:25461/Coba02/Abcd1234/22
+
 #https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
@@ -799,8 +800,6 @@ http://45.126.83.51/uq2663/h/h04/index2.m3u8
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
-#https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/warnertv.png" group-title="Movies",Warner TV
 #https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="Movies",Warner TV HD
@@ -851,7 +850,7 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/c1wY72Hr/axn4.png" group-title="Entertainment",AXN
 http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wTwqG1Xy/fmn4y.png" group-title="Entertainment",FMN
-https://anevia115.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wj0DyNB2/hits44.png" group-title="Entertainment",HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wBMLhByp/id4.png" group-title="Entertainment",IdKU
@@ -868,13 +867,13 @@ https://anevia115.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKYQNB1w/egg4.png" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1VDRLSr/mncc4.png" group-title="Entertainment",MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
+#https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydSRbryp/mncinfo4.pngg" group-title="Entertainment",Infotainment
 #https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
-https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
+#https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1MbMqkd/mnce4.png" group-title="Entertainment",Entertainment
 #https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
-https://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
+#https://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S8k0cQQ/blu4.png" group-title="Entertainment",Blue Ant Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #http://210.210.155.35/dr9445/h/h15/index2.m3u8
