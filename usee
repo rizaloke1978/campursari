@@ -60,6 +60,24 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w989097186_b1344100_slen
 https://cdnmdc1.useetv.com/joss/194/champion2/chunklist_w97830848_b1344100_sleng.m3u8?enc=kw-1GpEeJI0DxtiabnJVhw&exp=1583048544
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="UseeTV",LIGA SHOPEE
 https://cdnbal1.useetv.com/joss/14/ligasatu/chunklist_w1916433230_b944100_sleng.m3u8?enc=vMNgya4QQDwIq3IGs_rSQA&exp=1583048536
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="UseeTV",USEE SPORTS
+https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w772077162_b1344100_sleng.m3u8?enc=cBF-u4hiegGxajgMM4JQAQ&exp=1583050621
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="UseeTV",CITRA DRAMA
+https://cdnmdc2.useetv.com/joss/14/cdrama/chunklist_w1114846159_b684100_sleng.m3u8?enc=6nnGj6bL7e7MB5mjHl64qw&exp=1583050778
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1wY72Hr/axn4.png" group-title="UseeTV",AXN
+https://edgejt6.useetv.com/joss/17/axn/chunklist_w460392159_b1344100_sleng.m3u8?enc=IW6EpDGiahB7ppeOSEPTTQ&exp=1583051539
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="UseeTV",WARNER TV
+https://cdnjt25.useetv.com/joss/194/warner/chunklist_w569735582_b1344100_sleng.m3u8?enc=ZNvLHGxWlTOugB-BMedgwQ&exp=1583051019
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="UseeTV",DUNIA ANAK
+https://cdnkbl2.useetv.com/joss/14/duniaanak/chunklist_w2060009299_b684100_sleng.m3u8?enc=ItpWcz9ugGBbCi5vFZ3d9Q&exp=1583051028
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="UseeTV",FLIK
+https://cdnbal1.useetv.com/joss/15/flik/chunklist_w491054965_b1344100_sleng.m3u8?enc=2aUnfeLSI5fGfQ5t8cQwOA&exp=1583051030
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pelangi_small1.png" group-title="UseeTV",PELANGI
+https://edgejt6.useetv.com/joss/14/pelangi/chunklist_w1677914615_b684100_sleng.m3u8?enc=bFIZ6U68gQ7iYQZ1OZbU0Q&exp=1583051033
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="UseeTV",K PLUS
+https://cdnjt25.useetv.com/joss/15/kplus/chunklist_w1591147524_b1344100_sleng.m3u8?enc=FBY86Qqai4itC9vJorSfCw&exp=1583051150
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="UseeTV",ZEE BIOSKOP
+https://cdnbpp1.useetv.com/joss/14/zbioskop/chunklist_w1337293002_b684100_sleng.m3u8?enc=-EKo_LbDL4p75o0mSjRNFw&exp=1583051157
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",Useeinfo
 https://www.useetv.com/livetv/useeinfo
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/ydKMX6Zv/logo.png" group-title="UseeTV",Useephoto
