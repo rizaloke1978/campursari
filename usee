@@ -59,7 +59,9 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w989097186_b1344100_slen
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="UseeTV",Champion TV 2
 https://cdnmdc1.useetv.com/joss/194/champion2/chunklist_w97830848_b1344100_sleng.m3u8?enc=kw-1GpEeJI0DxtiabnJVhw&exp=1583048544
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="UseeTV",LIGA SHOPEE
-https://cdnbal1.useetv.com/joss/14/ligasatu/chunklist_w1916433230_b944100_sleng.m3u8?enc=vMNgya4QQDwIq3IGs_rSQA&exp=1583048536
+https://twitch.tv/bolamatch
+
+#https://cdnbal1.useetv.com/joss/14/ligasatu/chunklist_w1916433230_b944100_sleng.m3u8?enc=vMNgya4QQDwIq3IGs_rSQA&exp=1583048536
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="UseeTV",USEE SPORTS
 https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w772077162_b1344100_sleng.m3u8?enc=cBF-u4hiegGxajgMM4JQAQ&exp=1583050621
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="UseeTV",CITRA DRAMA
