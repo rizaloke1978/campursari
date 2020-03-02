@@ -939,7 +939,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0BJvFNx/cnbcasia4.png" group-title="News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLfn3Zh7/blom4.png" group-title="News",Bloomberg
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
+
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28804.ts?token=HhVYAkpZQF8XUlAPV1VdUgZVVwFUWlADUVYNVABUAFcED1RSAARUAAQTThtFQ0pVUlk6X1QaWVNdCghXG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQVRVRsSE1BVQF8XAlMKDwcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAHFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwUGCwcGFhg=
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP2TgbWK/eu4.png" group-title="News",EuroNews
 
 
@@ -947,7 +948,11 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28784.ts?token=HhVYAkpZQF8XVAAOBl
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htwmQDtw/foxnews4.png" group-title="News",FOX News
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
+
+
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28773.ts?token=HhVYAkpZQF8XUwYOAwIBVlEHAAEHAVEHVVMMAQVSAwNWAwZVDwhTUwYTThtFQ0pVUlk6X1QaWVNdBQ9QG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQFVUxsSE1BVQF8XAFYJAgIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgADFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDggCFhg=
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S3v5brh/skynews4.png" group-title="News",SKY News
 https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vTHTSkmf/franc244.png" group-title="News",France 24
@@ -971,7 +976,11 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28817.ts?token=HhVYAkpZQF8XAVIIBA
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvBYrQHB/al4.png" group-title="News",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncJgRpdD/cnninter4.png" group-title="News",CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
+
+
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9FYSsKSN/cna4.png" group-title="News",Channel News Asia
 
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28749.ts?token=HhVYAkpZQF8XAgZfBQMAAwsBUlUIAFJXUlYJBgVcBwRQAFFVXQFXXQITThtFQ0pVUlk6X1QaWVNdBQxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUwZSXBsSE1BVQF8XAFEIBA8aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAFFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcECQELFhg=
