@@ -795,14 +795,14 @@ http://streamku.live:8888/live/masmuto/masmuto20/847.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Movies",HBO Hits
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
 #http://streamku.live:8888/live/masmuto/masmuto20/849.ts
 #https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Movies",HBO Signature
 http://streamku.live:8888/live/masmuto/masmuto20/577.ts
 #https://doofree88.com/streaming/hd-xzyte_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Movies",HBO Family
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
+http://streamku.live:8888/live/masmuto/masmuto20/848.ts
 #https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Red By HBO" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",Red By HBO
 http://streamku.live:8888/live/masmuto/masmuto20/689.ts
@@ -827,8 +827,8 @@ http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/warnertv.png" group-title="Movies",Warner TV
 #https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="Movies",Warner TV HD
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
-#https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
+https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 http://streamku.live:8888/live/masmuto/masmuto20/598.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Galaxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Movies",Galaxy
@@ -841,13 +841,14 @@ https://doofree88.com/streaming/sd-moviehits_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJJ4Cnh/my4.png" group-title="Movies",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png" group-title="Movies",FOX Movies Premium HD
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
-#https://doofree88.com/streaming/hd-foxpremium_720/index.m3u8
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
+https://doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Crime HD
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
-#https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
+https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Action Movie
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png" group-title="Movies",FOX Family Movies HD
 #http://streamku.live:8888/live/masmuto/masmuto20/584.ts
 https://doofree88.com/streaming/hd-foxfamily_720/index.m3u8
@@ -866,19 +867,12 @@ http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="Movies",Star Chinese Movies Legend
 https://doofree88.com/streaming/sd-celestial_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="Movies",TVN
-
 http://streamku.live:8888/live/masmuto/masmuto20/612.ts
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png" group-title="Movies",TVN MOVIES
 http://msl.tvbayoplus.com:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
-
-
-#http://streamku.live:8888/live/masmuto/masmuto20/539.ts
-
-#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png" group-title="Entertainment",FOX HD
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
-#https://doofree88.com/streaming/sd-fox_720/index.m3u8
+#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
+https://doofree88.com/streaming/sd-fox_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
@@ -886,8 +880,6 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wTwqG1Xy/fmn4y.png" group-title="Entertainment",FMN
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28783.ts?token=HhVYAkpZQF8XAlsKAwRbA1YEUAVWXgBYBwBeAVZTUgJXBQJVWgYAUgUTThtFQ0pVUlk6X1QaWVNdBQBQG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUQ9RUBsSE1BVQF8XA1YPABUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCQARGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACwQPAQMRSQ==
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wj0DyNB2/hits44.png" group-title="Entertainment",HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wBMLhByp/id4.png" group-title="Entertainment",IdKU
@@ -911,12 +903,7 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28763.ts?token=HhVYAkpZQF8XCVYBDl
 #https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1MbMqkd/mnce4.png" group-title="Entertainment",Entertainment
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28756.ts?token=HhVYAkpZQF8XAlddAVEBCFVVV1AGDQcFA1YKV1JRUgVRAAFbXwdVUQwTThtFQ0pVUlk6X1QaWVNdBQ1VG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUAJTVhsSE1BVQF8XA1QAAwMaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEDFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQBAQQEFhg=
-
-
-#https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
-#https://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S8k0cQQ/blu4.png" group-title="Entertainment",Blue Ant Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #http://210.210.155.35/dr9445/h/h15/index2.m3u8
@@ -929,15 +916,8 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htHJP2CR/idx4.png" group-title="News",IDX
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28764.ts?token=HhVYAkpZQF8XAwFcBQQBAVEABgBRXAACAFQAVQVTBABSUwlRWABVVQwTThtFQ0pVUlk6X1QaWVNdBQ5XG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUwZQUxsSE1BVQF8XAFYJAw4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkEFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwAHDQURSQ==
-
-
-#https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4N27jfVd/dw4y.png" group-title="News",DW TV
-
-
 http://62.210.180.66:8080/live/gxfgss/HHVVPP/7563.ts?token=HhVYAkpZQF8XBgMKVwZeBwoMUg8EC1VSUwEMUlQBA1JcDgJXWgJSBgwTThtFQ0pVUlk6X1QaWVZQBAtPFRBFBBdoWQcbC0BUAwlTAQMVFBJHXQhTEgJSVF0BCVMPXAJXSRVACl0TWEcHAlQKBRUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBhIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcPCgkRGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACAAACQERSQ==
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsk8ScJR/mnc_news4.png" group-title="News",MNC News
@@ -948,64 +928,29 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/D0BJvFNx/cnbcasia4.png" group-title="News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLfn3Zh7/blom4.png" group-title="News",Bloomberg
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28804.ts?token=HhVYAkpZQF8XUlAPV1VdUgZVVwFUWlADUVYNVABUAFcED1RSAARUAAQTThtFQ0pVUlk6X1QaWVNdCghXG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQVRVRsSE1BVQF8XAlMKDwcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAHFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwUGCwcGFhg=
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP2TgbWK/eu4.png" group-title="News",EuroNews
-
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28784.ts?token=HhVYAkpZQF8XVAAOBlIPUgZSVwNSXVdQAAVZVAEGVFBSBgFRAQIEBwETThtFQ0pVUlk6X1QaWVNdBQBXG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUgFVXRsSE1BVQF8XAFcIBAQaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEBFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcCCQEFFhg=
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/htwmQDtw/foxnews4.png" group-title="News",FOX News
-
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28773.ts?token=HhVYAkpZQF8XUwYOAwIBVlEHAAEHAVEHVVMMAQVSAwNWAwZVDwhTUwYTThtFQ0pVUlk6X1QaWVNdBQ9QG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQFVUxsSE1BVQF8XAFYJAgIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgADFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDggCFhg=
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S3v5brh/skynews4.png" group-title="News",SKY News
-
-
 http://62.210.82.213:25461/live/gxfgss/HHVVPP/34628.ts?token=HhVYAkpZQF8XB1oPBVYPCQECAAIADAdSVFEJVQVXDgNUAQMFXQcGVQQTThtFQ0pVUlk6X1QaWVJRBApbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQ9YVhsSE1BVQF8XBlUNAxUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBhIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwUBDAgRGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtAAQMECxJO
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vTHTSkmf/franc244.png" group-title="News",France 24
-
-
 http://streamku.live:8888/live/masmuto/masmuto20/528.ts
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j56n1y40/bbc4.png" group-title="News",BBC World
-
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28808.ts?token=HhVYAkpZQF8XBgYOV1EKAwMCUQMGDwAAAQRcVwFdVFNRUgECCghQVAATThtFQ0pVUlk6X1QaWVNdCghbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQdWVhsSE1BVQF8XAFEBAAIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcGDwYLFhg=
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tgxxhK1g/trt4y.png" group-title="News",TRT World
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLQ058Xf/rt4y.png" group-title="News",RT English
-
-
 http://streamku.live:8888/live/masmuto/masmuto20/527.ts
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2M72RGV/abc-a4.png" group-title="News",ABC Australia
-
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28817.ts?token=HhVYAkpZQF8XAVIIBARdAgcCUVIHDgBZAAUKW1QAVVNWAVFVXFQBBAcTThtFQ0pVUlk6X1QaWVNdCglUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUgNZXBsSE1BVQF8XAFEJBQcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAKFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcFCAcFFhg=
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvBYrQHB/al4.png" group-title="News",Aljazeera English
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncJgRpdD/cnninter4.png" group-title="News",CNN International
-
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28799.ts?token=HhVYAkpZQF8XUlAKBwAIUQNQBA8GAAEEUgoNUlVSAlZVDlEGDgNWAVMTThtFQ0pVUlk6X1QaWVNdBQFaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQBRXBsSE1BVQF8XAFYPDgAaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCQkCFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcDDgYLFhg=
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9FYSsKSN/cna4.png" group-title="News",Channel News Asia
-
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28749.ts?token=HhVYAkpZQF8XAgZfBQMAAwsBUlUIAFJXUlYJBgVcBwRQAFFVXQFXXQITThtFQ0pVUlk6X1QaWVNdBQxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHUwZSXBsSE1BVQF8XAFEIBA8aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAFFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcECQELFhg=
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxmSn6F6/makkah4y.png" group-title="Religious",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6p9B3NNv/madinah4.png" group-title="Religious",Madinah TV
