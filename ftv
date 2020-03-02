@@ -1301,5 +1301,73 @@ https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0sJGhhVN-oLNXg21IB
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dY5LVGQ/DUTA.png" group-title="TV Daerah",DUTA TV
+https://video2.onlivestreaming.net/dutatelevisi/liveabr/dutatelevisi/livestream/chunks.m3u8?nimblesessionid=18193804
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/kawanuatv.png" group-title="TV Daerah",Kawanua TV Manado
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/bmstv.png" group-title="TV Daerah",BMSTV Purwokerto
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/bayutv.png" group-title="TV Daerah",BayuTV Nganjuk
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/ruaitv.png" group-title="TV Daerah",RuaiTV Pontianak
+http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/padangtv.png" group-title="TV Daerah",Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/sultratv.png" group-title="TV Daerah",Sultra TV
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/bandungtv.png" group-title="TV Daerah",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/pontv.png" group-title="TV Daerah",Pontianak TV
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/rtvriau.png" group-title="TV Daerah",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/sbotv.png" group-title="TV Daerah",SBO TV Surabaya
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/btv.png" group-title="TV Daerah",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/aditv.png" group-title="TV Daerah",ADiTV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
+http://122.248.43.138:1935/ch19/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/radartv.png" group-title="TV Daerah",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/citratv.png" group-title="TV Daerah",Citra TV Lamongan
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/simpang5.png" group-title="TV Daerah",Simpang 5 TV Pati
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/saktitv.png" group-title="TV Daerah",SaktiTV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/barayatv.png" group-title="TV Daerah",Banten Raya TV
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/jektv.png" group-title="TV Daerah",Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/arematv.png" group-title="TV Daerah",Arema TV
+http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/jambitv.png" group-title="TV Daerah",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/smtv.png" group-title="TV Daerah",SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/paltv.png" group-title="TV Daerah",PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/rbtv.png" group-title="TV Daerah",RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/betv.png" group-title="TV Daerah",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/sbctv.png" group-title="TV Daerah",SBCTV Jatim
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/jember1tv.png" group-title="TV Daerah",Jember1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/tvku.png" group-title="TV Daerah",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/rctv.png" group-title="TV Daerah",RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/pjtv.png" group-title="TV Daerah",PJTV Bandung
+http://122.248.43.138:1935/ch26/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/nirwanatv.png" group-title="TV Daerah",Nirwana TV Bali
+http://122.248.43.138:1935/ch8/myStream/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/leggosy/tiivii/fajartv.png" group-title="TV Daerah",Fajar TV Makassar
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
+
+
 
 
