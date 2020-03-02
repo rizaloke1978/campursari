@@ -37,9 +37,8 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/6764.ts?token=HhVYAkpZQF8XAVUBVQM
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
-#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/indosiar/playlist.m3u8
-#http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1583079907~acl=/hls-b/ingest_6588_*/*~hmac=71e210f1883c6670ef347fb20728af7a8e99734c6032334266bae4eacb4ad8f9/hls-b/ingest_6588_720p/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/607.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
 https://etslive-2-vidio-com.akamaized.net/exp=1582966808~acl=/hls-b/ingest_204_*/*~hmac=db51f53e246909434a84f79cfb6917dc862658a541b1e9642513491b02ee8748/hls-b/ingest_204_720p/index.m3u8
