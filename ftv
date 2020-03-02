@@ -22,6 +22,9 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV
+http://streamku.live:8888/live/masmuto/masmuto20/607.ts
+
+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/antv.png" group-title="INDONESIA",ANTV+
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/9
@@ -966,7 +969,11 @@ http://62.210.82.213:25461/live/gxfgss/HHVVPP/34628.ts?token=HhVYAkpZQF8XB1oPBVY
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vTHTSkmf/franc244.png" group-title="News",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
+
+
+http://streamku.live:8888/live/masmuto/masmuto20/528.ts
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j56n1y40/bbc4.png" group-title="News",BBC World
 
 
@@ -976,7 +983,11 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28808.ts?token=HhVYAkpZQF8XBgYOV1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tgxxhK1g/trt4y.png" group-title="News",TRT World
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLQ058Xf/rt4y.png" group-title="News",RT English
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
+
+
+http://streamku.live:8888/live/masmuto/masmuto20/527.ts
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g2M72RGV/abc-a4.png" group-title="News",ABC Australia
 
 
