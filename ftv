@@ -928,7 +928,11 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28764.ts?token=HhVYAkpZQF8XAwFcBQ
 
 #https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4N27jfVd/dw4y.png" group-title="News",DW TV
-https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
+
+
+http://62.210.180.66:8080/live/gxfgss/HHVVPP/7563.ts?token=HhVYAkpZQF8XBgMKVwZeBwoMUg8EC1VSUwEMUlQBA1JcDgJXWgJSBgwTThtFQ0pVUlk6X1QaWVZQBAtPFRBFBBdoWQcbC0BUAwlTAQMVFBJHXQhTEgJSVF0BCVMPXAJXSRVACl0TWEcHAlQKBRUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBhIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcPCgkRGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACAAACQERSQ==
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsk8ScJR/mnc_news4.png" group-title="News",MNC News
@@ -954,7 +958,11 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28773.ts?token=HhVYAkpZQF8XUwYOAw
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2S3v5brh/skynews4.png" group-title="News",SKY News
-https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
+
+
+http://62.210.82.213:25461/live/gxfgss/HHVVPP/34628.ts?token=HhVYAkpZQF8XB1oPBVYPCQECAAIADAdSVFEJVQVXDgNUAQMFXQcGVQQTThtFQ0pVUlk6X1QaWVJRBApbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQ9YVhsSE1BVQF8XBlUNAxUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBhIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwUBDAgRGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtAAQMECxJO
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vTHTSkmf/franc244.png" group-title="News",France 24
 https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j56n1y40/bbc4.png" group-title="News",BBC World
